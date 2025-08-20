@@ -1,0 +1,595 @@
+Timestamp,Which A/L stream did you choose?,Did everything go well with your A/L exams?,What is your favorite subject? ,Kindly input your O/L exam results [Mathematics],Kindly input your O/L exam results [Science],Kindly input your O/L exam results [Religion],Kindly input your O/L exam results [English],Kindly input your O/L exam results [Sinhala or Tamil],Kindly input your O/L exam results [History],Kindly input your O/L exam results [Basket I],Kindly input your O/L exam results [Basket II],Kindly input your O/L exam results [Basket III],What career are you interested in pursuing? ,Which higher education field are you currently following or have you completed? ,Column 15,"If so, what kind of job do you do? ","On a scale of 1 to 5, how satisfied are you with your current job?  ","If you had the opportunity, would you prefer to do a different job? If yes, what job would you like to do?  ","What advice would you give to students selecting their A/L stream? Additionally, do you have any feedback or suggestions for improving this project? "
+5/3/2025 11:36,Physical Science,"Mostly, but I faced some challenges",maths,A,A,A,A,B,A,A,C,A,software engineering,software engineering,,,,,
+5/3/2025 11:40,Physical Science,"Yes, everything went well",maths,A,A,A,A,A,A,A,B,A,software engineer,computer science,I'm currently employed,IT / Software Development,4,,
+5/3/2025 12:03,Physical Science,"Mostly, but I faced some challenges",Mathematics ,A,B,A,A,A,A,A,A,B,Engineering ,Software engineering ,,IT / Software Development,3,,
+5/3/2025 12:15,Physical Science,"Mostly, but I faced some challenges",ICT,B,C,C,A,B,A,A,A,C,Software Engineer,Software Engineering ,I'm currently employed,IT / Software Development,2,No,Does the favorite subject made an impact when selecting the career path
+5/3/2025 12:16,Physical Science,"Mostly, but I faced some challenges",science,A,A,A,A,A,A,B,S,A,IT industry,Computer science,,,,,
+5/3/2025 12:17,Arts,"Mostly, but I faced some challenges",ICT,B,B,C,A,C,A,A,A,B,Software Engineer related,Software engineering ,,,,Artist,
+5/3/2025 12:18,Physical Science,"Yes, everything went well",Combined maths,A,A,A,A,A,A,A,A,A,Engineering ,Electronics and Telecommunication engineering ,I'm currently employed,Private Sector,3,,
+5/3/2025 12:19,Physical Science,"Mostly, but I faced some challenges",ICT,A,B,B,A,B,A,B,A,A,Networking ,,,IT / Software Development,4,Developer ,
+5/3/2025 12:22,Physical Science,"Mostly, but I faced some challenges",Combined Maths,A,A,A,A,A,A,A,A,A,Data Scientist ,Computer Science ,,Private Sector,,,
+5/3/2025 12:23,Physical Science,"Mostly, but I faced some challenges",Maths,A,A,A,B,A,A,A,A,B,Software engineer,Software engineering,I'm currently employed,Private Sector,4,,
+5/3/2025 12:26,Bio Science,"No, I had difficulties",History,A,B,A,A,A,A,A,A,A,Designing ,Bachelors,I'm currently employed,Designing ,4,Marketer,No
+5/3/2025 12:28,Physical Science,"Yes, everything went well",Maths,A,B,A,A,A,A,A,B,A,Fashion design ,Fashion design ,I'm currently employed,Private Sector,4,Senior fashion designer ,
+5/3/2025 12:33,Bio Science,"Mostly, but I faced some challenges",English,A,A,A,A,A,A,A,B,A,Software Engineering ,Software Engineering ,I'm currently employed,IT / Software Development,5,,
+5/3/2025 12:34,Physical Science,"Mostly, but I faced some challenges",Maths,A,A,A,A,A,C,B,B,B,Lecturing,MSC in Information Technology ,I'm currently employed,Private Sector,4,Software Engineering,
+5/3/2025 12:34,Physical Science,"Yes, everything went well",Maths,A,A,A,A,A,A,A,C,A,Engineering,Software Engineer ,I'm currently employed,Private Sector,2,,
+5/3/2025 12:36,Physical Science,"Mostly, but I faced some challenges",maths,A,A,A,C,B,B,A,B,C,IT,Software Engineering ,I'm currently employed,IT / Software Development,4,No,
+5/3/2025 12:37,Physical Science,"Yes, everything went well",Combined Maths,A,A,A,A,A,A,A,C,A,Engineering ,,,,,,
+5/3/2025 12:40,Bio Science,"No, I had difficulties",english,A,A,A,A,A,A,A,B,A,Business Analysis,Business Data Analytics ,,,,,
+5/3/2025 12:40,Physical Science,"Yes, everything went well",Combined Mathematics ,A,A,A,A,A,A,A,B,A,Engineering ,Electronic and Telecommunications Engineering ,,,,,
+5/3/2025 12:41,Technology,"Mostly, but I faced some challenges",Sinhala,A,C,A,B,A,C,B,C,A,Announcer,Nothing,I'm currently employed,Private Sector,4,Presenting ,Good
+5/3/2025 12:45,Bio Science,"Mostly, but I faced some challenges",maths,A,A,A,A,A,A,A,S,A,Food scientist ,Food science and technology ,,,,,
+5/3/2025 12:47,Physical Science,"Mostly, but I faced some challenges",Combined Maths,A,A,A,A,A,A,A,A,A,Web development,Information Technology,,,,,
+5/3/2025 12:48,Physical Science,"Yes, everything went well",Combined Mathematics,A,A,A,A,A,A,A,A,A,Lecturing ,Fashion Designing,I'm currently employed,Teaching / Education,5,Lecturer ,
+5/3/2025 12:52,Physical Science,"Mostly, but I faced some challenges",Combined Maths,A,A,A,A,A,A,A,A,A,Software Engineer,Software Engineering,,IT / Software Development,,"Data Engineer, Lecturer",
+5/3/2025 12:53,Bio Science,"Mostly, but I faced some challenges",science,A,A,A,A,A,C,B,A,C,Healthcare,Medical administration,I'm currently employed,Private Sector,4,Quality Assurance - Healthcare,
+5/3/2025 12:55,Physical Science,"Yes, everything went well",Mathematics ,A,A,A,A,A,A,A,B,A,Business Analyst ,"Industrial Management, mathematics and statistics ",I'm currently employed,Private Sector,4,Business Analysts ,
+5/3/2025 13:01,Physical Science,"Yes, everything went well",Combined maths,A,A,A,C,A,A,A,A,A,Engineering ,Computer engineering ,,,,Yes,
+5/3/2025 13:01,Physical Science,"Yes, everything went well",Maths ,A,A,A,A,A,A,A,A,A,IT,IT,I'm currently employed,Private Sector,3,,
+5/3/2025 13:01,Commerce,"Mostly, but I faced some challenges",Economics,A,C,C,C,B,C,B,B,B,To be banker,I’m done with business management and leadership degree ,,Private Sector,3,No,No need more improvements
+5/3/2025 13:03,Physical Science,"Yes, everything went well",Maths,A,A,A,A,A,A,A,A,A,IT ,It,,Private Sector,,,
+5/3/2025 13:04,Physical Science,"Mostly, but I faced some challenges",Maths,A,A,A,A,A,A,A,B,A,software engineering.,software engineering.,I'm currently employed,Private Sector,4,,
+5/3/2025 13:06,Physical Science,"No, I had difficulties",maths,A,B,A,A,A,A,A,A,C,Artificial intelligence ,Information technology ,,,,,
+5/3/2025 13:10,Physical Science,"Mostly, but I faced some challenges",Maths,A,A,A,A,A,A,B,B,A,Buisness ,Undergraduate Electroic and telecommunication engineer ,,,,,
+5/3/2025 13:11,Bio Science,"Mostly, but I faced some challenges",science,A,A,A,A,A,A,A,A,A,In food science field,Food science and technology ,,,,,
+5/3/2025 13:15,Physical Science,"Mostly, but I faced some challenges",maths ,A,A,A,A,B,C,A,A,C,Maritime,Maritime science ,I'm currently employed,Merchant navy ships' officer,5,No,None 🙏🏼
+5/3/2025 13:16,Physical Science,"No, I had difficulties",science ,A,C,A,A,B,C,A,A,A,Being a Sportsman (Cricketer),BSc in IT and MBA ,I'm currently employed,Private Sector,5,No,
+5/3/2025 13:16,Physical Science,"Mostly, but I faced some challenges",Mathematics ,A,A,A,A,A,A,A,A,A,Software Engineer ,Computer Science ,,,,,
+5/3/2025 13:17,Physical Science,"Mostly, but I faced some challenges",science ,A,A,A,A,A,A,A,A,A,Medicine ,Dental surgeon,,,,,
+5/3/2025 13:17,Bio Science,"Mostly, but I faced some challenges",science,A,A,A,C,B,A,A,A,A,Manager ,Agricultural technology and management ,,,,,
+5/3/2025 13:18,Physical Science,"No, I had difficulties",Maths,A,A,B,B,B,B,A,A,A,software engineer ,Computer science ,I'm currently employed,IT / Software Development,3,No,No
+5/3/2025 13:18,Bio Science,"No, I had difficulties",science,C,B,A,A,A,B,A,C,C,Business manager ,International Business Management ,,,,,
+5/3/2025 13:19,Bio Science,"Mostly, but I faced some challenges",maths,A,A,A,B,A,A,A,A,B,Marketing,Food technologists ,,,,Musician,No thank you
+5/3/2025 13:19,Physical Science,"Yes, everything went well",maths,A,A,A,A,A,A,A,B,A,Engineering ,Bsc Engineering ,,,,,
+5/3/2025 13:19,Technology,"Yes, everything went well",Science for technology ,B,C,B,C,B,C,C,B,C,Event planning ,Business management ,I'm currently employed,Self-Employed,4,,
+5/3/2025 13:19,Bio Science,"No, I had difficulties",Mathematics,A,B,A,B,A,A,B,A,C,Software Developer,Software Engineering,,,,,
+5/3/2025 13:20,Technology,"No, I had difficulties",Combined Mathematics,A,A,B,B,B,A,B,B,B,Cyber Security Analyst,Cyber Security,,,,No,
+5/3/2025 13:20,Physical Science,"Mostly, but I faced some challenges",maths ,A,A,A,A,A,A,A,A,A,Robotics ,Electrical and electronic engineering (reading),,,,,
+5/3/2025 13:25,Physical Science,"Mostly, but I faced some challenges",science,A,A,A,A,A,A,B,A,A,Software Engineering,Software Engineering,I'm currently employed,IT / Software Development,4,Yes Web designing,Good
+5/3/2025 13:29,Bio Science,"Yes, everything went well",Science ,A,A,A,B,A,A,A,A,A,Entrepreneur ,Agriculture ,,Self-Employed,,,
+5/3/2025 13:29,Arts,"Yes, everything went well",French,C,C,A,A,A,C,A,C,A,Teaching,BA,I'm currently employed,Private Sector,5,,
+5/3/2025 13:31,Bio Science,"No, I had difficulties",science ,A,A,A,A,A,A,A,A,A,Food product development manager ,Bsc (Hon's)Food Science and Technology ,,,,Food product developer ,
+5/3/2025 13:32,Bio Science,"Mostly, but I faced some challenges",science ,A,A,A,C,B,A,A,A,A,Entrepreneur,Ict programme in open university ,,Self-Employed,,Bank,Opportunity in Sri Lanka for employment 
+5/3/2025 13:32,Physical Science,"Mostly, but I faced some challenges",ICT,A,C,A,C,B,C,B,A,A,IT technology side,Network engineering ,I'm currently employed,Government Sector,2,No,Well done
+5/3/2025 13:33,Physical Science,"Mostly, but I faced some challenges",Combined Mathematics ,A,A,A,A,A,A,A,A,B,Engineering,Software Engineering ,I'm currently employed,IT / Software Development,4,,
+5/3/2025 13:35,Physical Science,"Mostly, but I faced some challenges",science ,A,B,B,A,C,C,B,C,B,Fashion designer ,Fashion designing ,,,1,No,Nothing
+5/3/2025 13:40,Physical Science,"Yes, everything went well",maths ,A,A,A,A,A,A,A,A,A,Laboratary side,Undergraduate,,Private Sector,,Laboratary side,Good survey
+5/3/2025 13:41,Bio Science,"Mostly, but I faced some challenges",Biology,A,A,A,A,A,A,A,B,A,Food technologists ,Food Science and Technology ,,,,,The survey was good
+5/3/2025 13:42,Bio Science,"Mostly, but I faced some challenges",Science ,A,A,A,A,A,A,A,A,A,A lecturer or an entrepreneur ,"Undergraduate in Agricultural Technology and Management , peradeniya ",,,,,No
+5/3/2025 13:45,Physical Science,"Mostly, but I faced some challenges",science,A,A,A,A,A,A,A,A,A,Engineering ,Engineering undergraduate ,,,,,
+5/3/2025 13:47,Physical Science,"Mostly, but I faced some challenges",maths,A,A,A,A,A,A,A,A,A,Game development + Software development,,,,,,
+5/3/2025 13:47,Bio Science,"Mostly, but I faced some challenges",Biology,C,B,A,C,B,B,A,A,A,Tourism,no any,I'm currently employed,Private Sector,4,yes. Airline,
+5/3/2025 13:48,Physical Science,"Mostly, but I faced some challenges",Maths ,A,C,A,B,B,A,B,B,A,"It,music ",It,,Teaching / Education,4,,
+5/3/2025 13:50,Commerce,"Mostly, but I faced some challenges",IT,A,C,A,A,A,B,B,B,A,Related to IT,Designing,,,3,"I love what I do, so I wouldn’t really want a different job. But if I ever explored something new, it would still be in the creative or business space, maybe growing my ventures into something bigger or launching a unique product line.","Overall, the survey is well-structured
+"
+5/3/2025 13:51,Physical Science,"Mostly, but I faced some challenges",Mathematics,A,A,A,A,A,A,A,A,B,Business Information systems ,Electronic Engineering ,I'm currently employed,Private Sector,3,"Yes , Software Quality Assurance Engineer ",
+5/3/2025 13:54,Physical Science,"Mostly, but I faced some challenges",ICT,A,A,A,A,A,A,A,A,A,Information technology ,Computer science ,,,,,
+5/3/2025 13:57,Commerce,"Yes, everything went well",ICT,A,B,A,A,A,A,A,A,B,Software Engineering,Software Engineering ,I'm currently employed,Private Sector,5,No,
+5/3/2025 13:57,Technology,"Mostly, but I faced some challenges",ICT,A,C,C,A,C,B,C,A,C,IT field,Software engineering,I'm currently employed,Private Sector,4,"As a part time job, this satisfies my needs for now but as soon as I complete my higher education I would be willing to cooperate with a leading company",
+5/3/2025 13:58,Technology,"Mostly, but I faced some challenges",technology,B,S,A,S,C,C,C,B,C,It,It,,IT / Software Development,,,
+5/3/2025 13:59,Physical Science,"No, I had difficulties",Maths ,A,B,A,A,B,A,A,B,C,IT,Software engineering ,I'm currently employed,IT / Software Development,3,,
+5/3/2025 13:59,Physical Science,"Yes, everything went well",maths ,A,A,A,A,A,B,A,B,B,Computer Engineering ,Ai,I'm currently employed,IT / Software Development,3,"Yes, development ",I haven't any idea about this project 
+5/3/2025 13:59,Physical Science,"Mostly, but I faced some challenges",maths ,A,A,A,A,A,B,A,S,A,industrial,Physical science ,,,,,
+5/3/2025 13:59,Physical Science,"Mostly, but I faced some challenges",science ,A,A,A,A,A,A,A,A,A,Engineering ,Engineering ,,,,,
+5/3/2025 14:02,Physical Science,"Yes, everything went well",Combined Maths,A,A,A,A,A,A,A,C,A,SE,CS/SE,,IT / Software Development,,,
+5/3/2025 14:02,Physical Science,"Yes, everything went well",Maths,A,A,A,A,A,A,A,A,A,Robotics ,Electronic and Telecommunication Engineering ,,,,,
+5/3/2025 14:02,Physical Science,"Yes, everything went well",science,A,A,A,A,A,A,B,A,A,Engineer,Chemical Engineering,I'm currently employed,Private Sector,4,Yes ,Good
+5/3/2025 14:03,Physical Science,"Mostly, but I faced some challenges",maths ,A,A,A,B,A,A,B,C,A,Computer Engineering side jobs,Quantity surveying ,I'm currently employed,Government Sector,3,Software engineering ,
+5/3/2025 14:04,Technology,"Mostly, but I faced some challenges",It,C,C,B,A,B,C,C,A,A,Computer science ,Computer science ,,,,,No very good 
+5/3/2025 14:06,Commerce,"Yes, everything went well",Econ,B,C,A,S,A,C,B,B,C,Acconting,Applied Accounting,I'm currently employed,Private Sector,4,,
+5/3/2025 14:08,Bio Science,"Mostly, but I faced some challenges",science ,A,A,A,A,A,A,A,A,A,Medical industry ,Bachelor of Ayurveda Medicine and Surgery ,I'm currently employed,Government Sector,3,Cafe owner,This gives an idea to think about the other path ways that also we can follow. So this a good project
+5/3/2025 14:08,Arts,"Yes, everything went well",Japanese ,C,C,B,A,A,B,A,A,A,Hospitality industry ,Hospitality industry ,I'm currently employed,Private Sector,3,,
+5/3/2025 14:09,Physical Science,"Mostly, but I faced some challenges",Mathematics ,A,A,A,A,A,A,A,A,A,Business ,,,,,,
+5/3/2025 14:11,Physical Science,"No, I had difficulties",Mathematics ,A,B,A,B,A,A,B,A,A,Forex Trading ,Software Engineering ,,,,,
+5/3/2025 14:11,Commerce,"Yes, everything went well",Business Studies ,B,A,A,B,A,A,B,C,A,Banking,BA (Hons) Management and Leadership ,I'm currently employed,Private Sector,4,IT company Procurement ,
+5/3/2025 14:11,Bio Science,"Mostly, but I faced some challenges",maths ,A,B,A,B,A,C,B,A,B,Software engineer,Software Engineering,I'm currently employed,IT / Software Development,4,UI UX Engineer ,Overall good project.
+5/3/2025 14:13,Physical Science,"Mostly, but I faced some challenges",Maths,A,C,B,B,A,C,A,C,A,Software Engineer,Information Technology ,I'm currently employed,Private Sector,4,Teaching,No
+5/3/2025 14:16,Physical Science,"Mostly, but I faced some challenges",maths,A,B,A,A,A,A,A,B,A,Business,software engineering ,I'm currently employed,Self-Employed,4,Piloting,
+5/3/2025 14:17,Physical Science,"Mostly, but I faced some challenges",Maths ,A,A,A,B,A,A,A,A,A,To be a engineer ,Electrical engineering ,,Government Sector,3,Architecture ,Good job 
+5/3/2025 14:19,Physical Science,"Mostly, but I faced some challenges",science,A,A,A,C,A,A,A,C,A,engineering,marine engineering,I'm currently employed,Government Sector,3,own business,-
+5/3/2025 14:20,Technology,"Mostly, but I faced some challenges",ICT,C,C,A,A,A,B,C,C,C,Teaching ,Social work,I'm currently employed,Private Sector,4,A job related with HR side,
+5/3/2025 14:21,Arts,"Yes, everything went well",Dancing ,C,C,C,B,B,C,C,A,B,Teaching,Dancing,I'm currently employed,IT / Software Development,4,Teaching,The purpose is very good.
+5/3/2025 14:22,Arts,"Yes, everything went well",art,C,C,A,A,B,A,C,B,A,IT,Information technology,,Private Sector,3,Nothing,All goos
+5/3/2025 14:22,Arts,"Yes, everything went well",english,A,B,A,A,A,A,A,A,A,Teaching,Teaching,I'm currently employed,Teaching / Education,4,"Yes, Fashion designing",
+5/3/2025 14:22,Physical Science,"Yes, everything went well",maths ,A,A,A,A,B,B,C,C,A,Automotive designing and engneering,maths Science ,,,,,"More details regarding the skills, experience should be obtained and considered "
+5/3/2025 14:24,Physical Science,"Mostly, but I faced some challenges",Combined maths,A,B,A,A,B,A,A,A,B,SE,Software Engineering,I'm currently employed,Private Sector,3,Nurse,
+5/3/2025 14:24,Commerce,"Yes, everything went well",IT,B,C,C,B,C,C,C,C,C,IT,IT,,IT / Software Development,1,Yes,
+5/3/2025 14:24,Physical Science,"Yes, everything went well",Combined mathematics ,A,A,A,B,A,A,B,A,A,Software engineer ,,,IT / Software Development,3,No,
+5/3/2025 14:26,Arts,"Yes, everything went well",Oriental music,C,C,B,B,B,C,A,A,C,Teaching,English teaching,I'm currently employed,Private Sector,3,Private tutor ,Good ! 
+5/3/2025 14:26,Physical Science,"Mostly, but I faced some challenges",maths ,A,A,A,B,A,A,A,A,A,Custom officer,Software Engineering ,,,,,
+5/3/2025 14:26,Physical Science,"Yes, everything went well",maths ,A,B,A,A,A,A,A,B,A,Engineering ,Engineering ,,,,,
+5/3/2025 14:32,Commerce,"Mostly, but I faced some challenges",Business studies ,C,B,C,C,B,B,C,C,B,Supply chain management ,Business management,I'm currently employed,Private Sector,1,Logistics manager,Good
+5/3/2025 14:38,Bio Science,"Yes, everything went well",Bio,A,B,A,B,A,A,A,A,B,The Entrepreneur,CQHRM,I'm currently employed,Self-Employed,5,No,No
+5/3/2025 14:39,Bio Science,"Mostly, but I faced some challenges",science ,A,A,A,A,A,A,A,A,A,Aircraft Maintenance Engineering,Aircraft Maintenance Engineering ,,,,,
+5/3/2025 14:40,Bio Science,"Mostly, but I faced some challenges",Bio,A,A,A,B,A,A,A,A,C,Food science ,Food science ,,,,Start a restaurant ,
+5/3/2025 14:40,Physical Science,"Mostly, but I faced some challenges",Mathematics ,A,A,A,A,A,B,S,C,A,Engineering,Software engineering,,,,,
+5/3/2025 14:40,Bio Science,"Mostly, but I faced some challenges",science,A,A,A,A,A,A,A,A,A,Doctor,medicine ,,,,,
+5/3/2025 14:44,Physical Science,"Yes, everything went well",Maths,A,A,A,A,A,A,A,B,A,Academic,Software engineering,,,,,
+5/3/2025 14:45,Physical Science,"Yes, everything went well",French,B,B,A,A,A,A,C,A,A,Teaching, Education ,I'm currently employed,Teaching / Education,5,No,
+5/3/2025 14:50,Arts,"Yes, everything went well",History ,C,B,A,B,A,A,A,A,A,Teaching ,Bachelors in Art,,,,,It's good..
+5/3/2025 14:54,Physical Science,"Mostly, but I faced some challenges",maths,A,A,A,A,A,A,A,B,B,Network enjineer,Computer system and network engineering,I'm currently employed,Private Sector,4,Comuter systems,No
+5/3/2025 14:54,Physical Science,"Mostly, but I faced some challenges",Maths,A,A,A,A,B,A,A,A,B,Not sure,Computer science ,,,,,
+5/3/2025 14:55,Physical Science,"Yes, everything went well",Combined Maths,A,B,A,A,A,A,A,A,A,Software Engineer ,Software Engineering ,,IT / Software Development,5,No,
+5/3/2025 14:56,Physical Science,"Mostly, but I faced some challenges",science ,A,A,A,A,A,A,A,B,A,Engineering ,Civil engineering ,,,,,No
+5/3/2025 14:56,Commerce,"Yes, everything went well",Economics,A,C,B,A,B,A,A,A,A,Program Manager,Technology ,,IT / Software Development,,,
+5/3/2025 14:58,Physical Science,"Mostly, but I faced some challenges",ICT,A,B,B,A,A,A,B,B,A,Software Engineering ,Software Engineering ,I'm currently employed,IT / Software Development,3,No,It would be great if the extra curricular activities or clubs that we liked and participated during schooling was collected for depictive analysis 
+5/3/2025 14:59,Bio Science,"No, I had difficulties",science ,A,A,A,A,A,A,A,A,A,Software engineer,Information and communication technology,,IT / Software Development,3,Yes a pharmacist ,No
+5/3/2025 15:00,Arts,"Mostly, but I faced some challenges",English,A,C,A,A,A,B,B,B,B,Aviation ,Tourism ,I'm currently employed,Private Sector,4,Event management ,
+5/3/2025 15:02,Commerce,"Yes, everything went well",Business studies ,B,B,A,A,A,B,A,B,A,Teaching  ,Diploma in English ,I'm currently employed,Government Sector,2,Yes ,
+5/3/2025 15:03,Bio Science,"Yes, everything went well",Biology ,B,A,A,B,A,B,A,B,C,Agriculture ,Agriculture ,,Government Sector,,,
+5/3/2025 15:06,Commerce,"Mostly, but I faced some challenges",Economics ,A,A,A,A,A,A,C,A,A,Teaching ,Undergraduate (TESOL),,Teaching / Education,,No,
+5/3/2025 15:08,Bio Science,"Mostly, but I faced some challenges",science ,A,A,A,A,A,A,A,A,A,Teaching ,No,,,,,
+5/3/2025 15:08,Physical Science,"Yes, everything went well",maths,A,A,A,A,A,A,A,A,A,Business analyst,Information System Engineering,I'm currently employed,Self-Employed,5,Mechanical Engineering,
+5/3/2025 15:14,Bio Science,"Mostly, but I faced some challenges",Agri science ,A,A,A,A,A,A,A,A,A,Business ,Agricultural technology and management ,,Self-Employed,,,
+5/3/2025 15:15,Physical Science,"Yes, everything went well",Maths,A,B,A,S,B,B,A,B,B,Huu,Software  engineering ,I'm currently employed,IT / Software Development,1,Baa,
+5/3/2025 15:16,Physical Science,"Yes, everything went well",Combined Mathematics,A,A,A,A,A,A,A,A,A,Logistics,Management and Information Technology ,I'm currently employed,Private Sector,4,No,
+5/3/2025 15:19,Arts,"Mostly, but I faced some challenges",Maths,A,A,A,A,A,A,A,A,A,An author or a librarian ,Information Systems,,,,,Just choose to do what you're good at.
+5/3/2025 15:19,Bio Science,"Yes, everything went well",Biology ,A,A,A,A,A,A,A,A,A,Medical officer,Medicine ,,,,,Let their will for A/l subjects 
+5/3/2025 15:20,Physical Science,"Yes, everything went well",maths ,A,A,A,A,A,A,A,A,A,Engineering ,Mechanical Engineering ,,,,,Choose according to their real interest.
+5/3/2025 15:21,Physical Science,"Mostly, but I faced some challenges",maths ,A,B,B,A,B,A,A,A,A,Engineering ,Mechanical engineering ,,,,,
+5/3/2025 15:21,Physical Science,"Mostly, but I faced some challenges",IT,A,B,A,A,A,A,A,A,A,In Cyber security field ,Doing cyber security degree ,,,,,Don't start love affairs else u r gonna end up.
+5/3/2025 15:22,Physical Science,"Mostly, but I faced some challenges",Combined maths,A,A,A,B,A,A,B,A,A,Engineering ,Computer science ,,IT / Software Development,3,No ,
+5/3/2025 15:24,Bio Science,"Yes, everything went well",Science ,A,A,A,A,A,A,A,B,A,Lecturer ,,I'm currently employed,Government Sector,4,,Just one advice. Do what you love.
+5/3/2025 15:27,Arts,"Yes, everything went well",Geography i,A,A,A,A,A,A,A,A,A,Judge ,Law,,,,,"Understand Your Interests and Passions.
+"
+5/3/2025 15:29,Arts,"Mostly, but I faced some challenges",Geography ,C,B,A,A,A,A,A,B,A,Teaching ,Al,I'm currently employed,Teaching / Education,5,Business ,Choose the best for you
+5/3/2025 15:30,Physical Science,"Mostly, but I faced some challenges",maths ,A,A,A,C,A,B,A,A,B,Maritime industry ,Nautical science ,,Private Sector,1,No,Select a subject that suits the target
+5/3/2025 15:32,Physical Science,"Mostly, but I faced some challenges",Combined maths,A,B,A,B,A,A,A,A,A,Lecture,Information technology ,,Private Sector,,,"Also You have to add ""student"" to the current job status "
+5/3/2025 15:37,Bio Science,"Yes, everything went well",Biology ,A,A,A,A,A,A,A,B,A,Project Manager,IT,I'm currently employed,Government Sector,3,Project Manager,Select the most suitable stream according to your results and desire.
+5/3/2025 15:40,Bio Science,"Mostly, but I faced some challenges",Biology,A,A,A,A,A,A,A,A,A,Laboratory scientists ,Bio science ,I'm currently employed,Teaching / Education,4,"Yes, research assistant",I suggest when selecting subjects for  A/L think about future job market
+5/3/2025 15:42,Arts,"Mostly, but I faced some challenges",French ,C,C,A,A,B,A,A,A,B,Tourism and hospitality ,Following an HND in tourism and hospitality management ,,,,,When selecting the A/L stream they must have a clear goal or an ambition and must think about the subject combinations and specifically the willingness of the subject that they are going to do to achieve their dream.
+5/3/2025 15:43,Physical Science,"Mostly, but I faced some challenges",science,A,A,A,A,A,A,A,A,A,Quality Assurance,BSc Physical Science,,,,,
+5/3/2025 15:44,Physical Science,"Yes, everything went well",Combined Mathematics ,A,A,A,A,A,B,A,B,B,Data science ,Statistics & Mathematics ,,,,,
+5/3/2025 15:49,Physical Science,"Mostly, but I faced some challenges",Mathematics ,A,A,A,A,A,A,A,A,A,Frontend developer,Statistics & Comp. Sci.,,,,,
+5/3/2025 15:55,Physical Science,"Mostly, but I faced some challenges",science ,A,A,A,A,A,A,A,A,A,Computer Engineering ,Computer Engineering ,,,,,
+5/3/2025 15:59,Bio Science,"Mostly, but I faced some challenges",Biology ,A,A,A,A,A,A,A,A,A,Agronomist ,Agriculture technology and management,,,,,
+5/3/2025 16:01,Commerce,"Yes, everything went well",Economics ,B,B,A,B,A,B,A,C,A,Accountant ,Applied Accounting ,I'm currently employed,Private Sector,5,"Yes , Designing ",
+5/3/2025 16:02,Bio Science,"Yes, everything went well",maths ,A,A,A,C,A,A,A,A,A,Nursing ,Nursing course ,,Student ,,No,Good project 
+5/3/2025 16:05,Physical Science,"Mostly, but I faced some challenges",ICT,B,B,A,A,S,B,C,A,B,Hardware Engineering,Undergraduate,I'm currently employed,IT / Software Development,3,No,
+5/3/2025 16:08,Physical Science,"Mostly, but I faced some challenges",maths,A,A,A,A,A,A,A,B,A,S E,Software Engineering,I'm currently employed,IT / Software Development,3,I DONT KNOW,Pick something you have interest
+5/3/2025 16:12,Physical Science,"Mostly, but I faced some challenges",Math,A,A,A,A,A,A,A,A,A,ID Develop Engineer ,Information Technology ,,,,,Keep Going.Good Work.But do not make it more difficult to navigate and Do not add context content to the Project because of the end students are still school students..😊
+5/3/2025 16:13,Physical Science,"No, I had difficulties",Mathematics,A,C,B,A,A,C,B,B,S,Software engineering,software engineering,,,4,Musician,choose the parth you like A/ls is not always the only parth
+5/3/2025 16:14,Physical Science,"Mostly, but I faced some challenges",science ,A,A,A,A,A,A,A,A,B,Information Technology ,Computer Science ,I'm currently employed,IT / Software Development,4,No,reflect on long term career growth and stability.
+5/3/2025 16:15,Bio Science,"No, I had difficulties",science ,A,A,A,A,A,A,A,A,A,Lawyer,,,,,,
+5/3/2025 16:16,Physical Science,"Mostly, but I faced some challenges",Mathematics,A,B,A,A,A,B,B,A,A,IT,Information System Engineering,I'm currently employed,IT / Software Development,4,"Yes,Businessman","Choose subjects you enjoy, research career options, seek guidance, consider strengths, and align your A/L stream with future goals."
+5/3/2025 16:18,Commerce,"Mostly, but I faced some challenges",Commerce,A,C,A,C,B,B,B,B,B,CEO,purchasing officer ,I'm currently employed,Private Sector,3,,work hard 
+5/3/2025 16:18,Arts,"Yes, everything went well",Geography,C,A,A,A,A,A,A,C,A,Business,Management Degree,,,,,
+5/3/2025 16:20,Physical Science,"Yes, everything went well",Combined Maths,A,A,A,A,A,A,A,A,C,IT,Software Engineering,I'm currently employed,IT / Software Development,3,Cricketer,
+5/3/2025 16:20,Physical Science,"Mostly, but I faced some challenges",Maths ,A,B,B,B,A,A,A,A,A,Software engineer ,Software engineer ,I'm currently employed,Private Sector,3,Yes,
+5/3/2025 16:20,Physical Science,"Mostly, but I faced some challenges",science ,A,A,A,A,A,A,A,A,A,Computer of Electrical electronic Engineering ,,,,,,
+5/3/2025 16:21,Bio Science,"No, I had difficulties",Biology ,A,A,A,A,A,A,A,A,A,No idea,Software Engineering undergraduate ,I'm currently employed,IT / Software Development,3,My own business ,Do what you like
+5/3/2025 16:21,Physical Science,"Mostly, but I faced some challenges",Mathematics ,A,A,A,A,A,B,B,A,A,Statistician ,Bachelor of science ,,,,,Study what u like
+5/3/2025 16:22,Commerce,"Mostly, but I faced some challenges",Accounts,C,C,B,B,B,B,A,B,B,Business,Software engeneer,I'm currently employed,IT / Software Development,5,,
+5/3/2025 16:23,Physical Science,"Mostly, but I faced some challenges",Combined Maths,A,C,A,C,A,A,A,C,B,Scientist ,Physical Science ,,,,,
+5/3/2025 16:24,Physical Science,"Mostly, but I faced some challenges",Mathematics ,A,A,A,A,A,A,A,B,A,It,Physical science,,IT / Software Development,,,
+5/3/2025 16:26,Physical Science,"Mostly, but I faced some challenges",maths ,A,A,A,A,A,A,B,B,A,Engineering ,Logistics Engineering ,,,,,Don’t choose because of the trend. Follow your own instincts and select what you really want
+5/3/2025 16:27,Bio Science,"Yes, everything went well",maths,A,A,A,A,A,A,A,A,A,Dental surgeon,Dental surgery ,,Government Sector,5,,
+5/3/2025 16:28,Physical Science,"Mostly, but I faced some challenges",Combined mathematics ,A,A,A,B,A,A,A,A,A,Engineering,Civil engineering,I'm currently employed,Private Sector,3,Business ,
+5/3/2025 16:36,Bio Science,"No, I had difficulties",maths ,A,A,A,A,A,A,A,A,A,Aviation,Aircraft Engineering ,,Private Sector,,No,You should select your stream based on the career path that you gonna persuade 
+5/3/2025 16:40,Bio Science,"Mostly, but I faced some challenges",maths ,A,A,A,C,A,A,A,A,A,Food Scientist ,Food Science and Technology ,,,,,
+5/3/2025 16:41,Bio Science,"Mostly, but I faced some challenges",maths ,A,A,A,A,A,A,A,A,A,Scientist,Food Science and Technology ,,,,,
+5/3/2025 16:42,Physical Science,"Mostly, but I faced some challenges",Maths,A,A,A,A,A,B,B,B,C,Civil engineering,Civil Engineering,I'm currently employed,Government Sector,4,,
+5/3/2025 16:44,Physical Science,"Mostly, but I faced some challenges",ICT,A,C,A,C,B,B,C,A,B,ICT,Data science,,,,Related to my career path,"Choose your A/L stream based on your interests and strengths, as it will keep you motivated and improve performance"
+5/3/2025 16:48,Physical Science,"Yes, everything went well",maths ,A,A,A,A,A,A,A,A,A,Electronic engineering ,Undergraduate ,,,,,
+5/3/2025 16:49,Physical Science,"Mostly, but I faced some challenges",maths,A,A,B,A,B,A,A,C,A,Aviation ,Merchant Navy Officer,I'm currently employed,Private Sector,3,"Yes, Pilot",
+5/3/2025 16:51,Physical Science,"Mostly, but I faced some challenges",Maths,A,A,A,C,A,A,B,C,A,Engineering ,Textile engineering ,I'm currently employed,Private Sector,3,Cabin crew,Follow your own path
+5/3/2025 16:52,Physical Science,"Mostly, but I faced some challenges",Maths,A,A,A,A,B,B,A,B,B,Software Engineer ,Bachelor ,I'm currently employed,IT / Software Development,4,Yes,Do what you like in career 
+5/3/2025 16:54,Commerce,"No, I had difficulties",Econ,B,B,A,A,B,C,B,B,B,Business Analyst,BBsc (Hons) Business Analytics ,,,,,
+5/3/2025 16:55,Physical Science,"Yes, everything went well",Combined maths,A,A,A,A,A,A,A,C,A,Engineering,Quantity Surveying,I'm currently employed,Private Sector,4,"Yes, something spirt related",Find their goal and satisfaction before selecting a path
+5/3/2025 16:57,Physical Science,"No, I had difficulties",Mathematics ,A,A,A,A,A,A,A,A,A,Data analysis,Physical science ,,,,,Choose the right path by yourself according to your passion 
+5/3/2025 16:58,Physical Science,"Mostly, but I faced some challenges",maths,A,A,A,A,A,A,C,C,A,Engineering ,Software engineering,,Self-Employed,5,No,Do what you love otherwise you hate it .
+5/3/2025 17:03,Arts,"Yes, everything went well",Agri science ,S,S,B,S,B,B,B,B,A,Research Assistant ,Graduate ,I'm currently employed,Private Sector,3,,
+5/3/2025 17:03,Commerce,"Yes, everything went well",Business Studies ,C,C,A,S,B,C,A,B,C,Buisness Analysis ,Computing and Software Engineering ,,,,Data entery and visualize ,
+5/3/2025 17:12,Physical Science,"Mostly, but I faced some challenges",maths ,A,A,A,C,A,A,B,B,A,Engineer,Electrical and Electronics Engineering ,,,,,Choose a stream that can lead to a job you  are passionate about
+5/3/2025 17:13,Technology,"No, I had difficulties",Information Technology,C,C,A,C,B,A,C,B,C,Software developing ,Software engineering ,,IT / Software Development,,,
+5/3/2025 17:14,Bio Science,"Yes, everything went well",science ,A,A,A,A,A,A,B,C,A,Doctor (medicine) ,1st year of MBBS,,,4,No,Work hard 
+5/3/2025 17:14,Technology,"Yes, everything went well",Computer science,B,A,B,A,C,C,C,C,C,Data engineering,Data engineering,I'm currently employed,Private Sector,4,,Do what will help you to do what you want to do
+5/3/2025 17:25,Bio Science,"Yes, everything went well",english,A,A,A,A,A,A,A,A,A,Medical,Medicine ,,,,Yes . Part time job can handle with lap or tablet,No
+5/3/2025 17:30,Physical Science,"Yes, everything went well",Mathematics ,A,A,A,A,A,A,A,B,A,Software Engineering ,Software Engineering ,,,,,
+5/3/2025 17:31,Physical Science,"Mostly, but I faced some challenges",Mathematics ,A,A,A,C,A,A,A,B,B, ,Civil engineering ,,,,,"Selecting an A/L stream is a pivotal decision for students, as it can shape their future academic and career paths. Here’s some advice to guide that decision:
+
+Assess Interests and Strengths: Choose a stream that aligns with your natural interests and academic strengths. For instance, if you excel in science and enjoy problem-solving, the science stream might be a good fit. If you're more interested in literature, arts, or social sciences, the arts stream could suit you better.
+
+Consider Future Goals: Think about your long-term goals. Some career paths require specific A/L streams. For example, if you want to pursue medicine, engineering, or technology, science is the preferred stream. If you're interested in law, economics, or media, arts or commerce could be better options.
+
+Talk to Teachers and Mentors: Get advice from teachers, school counselors, and professionals in fields that interest you. Their insights can help you understand the opportunities and challenges within each stream.
+
+Think About Balance: Choose a stream that offers a good balance between subjects you enjoy and subjects you are good at. It’s important to be engaged and motivated throughout your studies.
+
+Be Open to Exploring New Fields: If you’re uncertain, take time to explore different subjects within each stream before making a final decision. Many students find their passion later in the process.
+
+Regarding your project, here’s some feedback and suggestions to improve it:
+
+Clarify Your Objective: Make sure the purpose of the project is clear. What do you aim to achieve or demonstrate? It could help guide the content and structure.
+
+Incorporate Data and Examples: Using real-world examples, statistics, or case studies can make your project more relevant and engaging. This also adds credibility to your arguments or findings.
+
+Focus on Audience Engagement: If your project is presented to others, ensure it’s structured in a way that engages the audience. Use visuals, interactive elements, or storytelling to keep it compelling.
+
+Iterate and Refine: Seek feedback from peers or mentors throughout the process and refine the project based on their input. Revising drafts is key to improving the quality."
+5/3/2025 17:32,Physical Science,"Mostly, but I faced some challenges",Mathematics ,A,A,A,A,A,A,A,A,A,Data Analyst ,Physical science ,,,,,Follow your heart 
+5/3/2025 17:32,Bio Science,"Mostly, but I faced some challenges",maths ,A,A,A,A,A,A,A,A,A,Clinician in the medical field,Medicine,,,,Own Business ,Select what your heart says
+5/3/2025 17:34,Physical Science,"Yes, everything went well",maths ,A,A,A,A,A,A,A,A,A,Software Engineering ,Software Engineering ,I'm currently employed,IT / Software Development,4,No,
+5/3/2025 17:34,Technology,"Yes, everything went well",Bio System Technology,A,A,A,A,A,A,A,A,A,Quality Assuarance engineer,Bio system engineering,,Private Sector,,Children book illustrator,nice survay
+5/3/2025 17:37,Physical Science,"Mostly, but I faced some challenges",science ,A,A,A,A,A,A,A,A,A,In a laboratory ,Physical science ,,,,,Al students must be aware of the subjects and pathways that have to learn at the University also
+5/3/2025 17:40,Physical Science,"Mostly, but I faced some challenges",Mathematics ,A,A,A,A,A,A,A,A,A,Finance sector ,No,,,,,
+5/3/2025 17:42,Bio Science,"Mostly, but I faced some challenges",science ,A,A,A,A,A,A,A,A,A,Food industry ,Bachelor's in Food Science and Technology ,,,,,
+5/3/2025 17:51,Arts,"Mostly, but I faced some challenges",Economics ,A,A,B,A,A,A,B,A,A,Archaeology ,Law,,,,,
+5/3/2025 17:59,Physical Science,"Mostly, but I faced some challenges",Mathematics ,A,A,A,C,A,A,A,B,B,Quality or Laboratory Manager,Physical Science,,,,,
+5/3/2025 18:00,Arts,"Mostly, but I faced some challenges",ICT,C,S,B,B,C,B,C,B,C,Software ,Software engineering ,,,,,
+5/3/2025 18:00,Physical Science,"Yes, everything went well",Combined Mathematics ,A,A,A,A,A,A,A,B,A,Electrical engineering ,Electrical and information engineering ,,,,,
+5/3/2025 18:00,Arts,"Yes, everything went well",Economics,A,C,A,A,B,B,B,A,B,System engineer ,Not yet,,,,,
+5/3/2025 18:03,Physical Science,"Mostly, but I faced some challenges",maths ,A,A,A,A,A,A,A,A,A,"Lecture, Engineer ",Physical Science ,,Private Sector,,,
+5/3/2025 18:05,Physical Science,"Mostly, but I faced some challenges",maths,A,A,A,B,B,A,B,B,A,Software Engineering,Software Engineering,,,,,
+5/3/2025 18:05,Physical Science,"Yes, everything went well",Maths,A,A,A,B,A,A,A,A,A,Teacher,Marine Engineering ,I'm currently employed,Private Sector,3,Yes,You do your 1shy with your best
+5/3/2025 18:07,Physical Science,"Mostly, but I faced some challenges",maths ,A,A,A,A,A,A,A,A,A,Engineering,Mechanical Engineering ,I'm currently employed,Private Sector,3,Robotics,Go for where your passion lies. Always search for the career opportunities that related to that field. Doing so you won’t regret. You will have a clear understanding of the path that you wanna follow.
+5/3/2025 18:12,Physical Science,"Yes, everything went well",maths,A,A,A,A,A,A,A,A,A,Electronic Engineering ,Electrical and Electronic Engineerig,I'm currently employed,IT / Software Development,5,Architecture ,Avoid stacking too much work at once and manage workload effectively to ensure consistent performance.
+5/3/2025 18:13,Physical Science,"Mostly, but I faced some challenges",Combined mathematics ,A,A,A,A,A,A,A,B,A,Financial Analyst ,BSc(Hons) in Financial Mathematics and Applied Statistics ,,,,,
+5/3/2025 18:15,Bio Science,"Yes, everything went well",science ,A,A,A,A,A,A,A,A,A,Fashion designer ,Veterinary medicine,,Private Sector,,,
+5/3/2025 18:16,Physical Science,"Mostly, but I faced some challenges",science ,A,A,A,C,A,A,A,B,A,marine engineering,Software engineering ,I'm currently employed,IT / Software Development,3,marine engineering,
+5/3/2025 18:18,Physical Science,"Mostly, but I faced some challenges",science ,A,B,A,B,A,B,B,B,B,Engineer ,Civil Engineering ,I'm currently employed,Government Sector,5,,Choose the a/l stream which you preferred 
+5/3/2025 18:20,Physical Science,"Mostly, but I faced some challenges",ICT,A,A,A,A,A,A,A,B,B,Data scientist,Data science,,,,,
+5/3/2025 18:23,Arts,"Mostly, but I faced some challenges",French ,B,C,A,A,A,A,A,C,B,Teaching / Tutoring ,BA in TESOL (3rd year),I'm currently employed,Teaching / Education,3,No,Better if you had specifically mentioned those basket subjects. 
+5/3/2025 18:24,Physical Science,"Mostly, but I faced some challenges",Maths,A,A,A,A,A,A,A,A,A,Science,Data Science ,,,,,
+5/3/2025 18:27,Physical Science,"Yes, everything went well",maths,A,A,A,A,A,A,A,A,A,It,It,I'm currently employed,Private Sector,4,It,Do whatever you makes happy
+5/3/2025 18:29,Technology,"Mostly, but I faced some challenges",Information Technology,A,A,A,A,B,A,A,C,A,Cloud Engineer,Bachelor's degree in IT,I'm currently employed,Private Sector,3,,"Chose what you're good at, not what area would pay the best."
+5/3/2025 18:31,Bio Science,"Mostly, but I faced some challenges",maths,A,A,A,A,A,A,A,A,B,Medicine,Medicine ,,,,,
+5/3/2025 18:32,Physical Science,"Mostly, but I faced some challenges",science ,A,A,A,A,A,A,A,A,A,IT,Information Technology,I'm currently employed,IT / Software Development,5,,
+5/3/2025 18:32,Physical Science,"No, I had difficulties",Combined maths,A,A,A,A,A,A,C,C,A,Markerting ,Marketing,I'm currently employed,Private Sector,5,No ,Complete A/L very well.
+5/3/2025 18:38,Bio Science,"Mostly, but I faced some challenges",Maths,A,A,A,A,A,A,A,B,A,Microbiology,Food Science and Technology,,,,,choose according to your preference
+5/3/2025 18:39,Physical Science,"Mostly, but I faced some challenges",History,A,A,C,C,C,A,C,B,B,Yes,Civil,I'm currently employed,Self-Employed,2,Yes,
+5/3/2025 18:40,Physical Science,"Yes, everything went well",Maths ,A,A,A,B,A,A,A,A,A,Teaching,B.Ed physical Sciences ,I'm currently employed,Teaching / Education,5,,
+5/3/2025 18:45,Physical Science,"Mostly, but I faced some challenges",IT,A,A,A,B,A,A,B,A,A,Pilot,Mechanical Engineering ,,Private Sector,,Yes ; Business ,
+5/3/2025 18:58,Bio Science,"Mostly, but I faced some challenges",science ,A,A,A,B,A,B,A,B,A,Businessman ,Animal Science and fisheries ,,,,,
+5/3/2025 18:58,Bio Science,"Mostly, but I faced some challenges",science,A,A,A,A,A,A,A,A,A,Food technologist,Food science and technology,,,,Hospitality management,"Do not follow others, follow what are you capable of"
+5/3/2025 19:03,Physical Science,"Mostly, but I faced some challenges",maths ,A,A,A,A,C,B,B,A,B,Air traffic controller ,BCS in physical science ,,,,,
+5/3/2025 19:06,Physical Science,"No, I had difficulties",Mathematics ,A,C,B,A,A,B,C,A,A,As a manager ,Business management ,,,,,
+5/3/2025 19:07,Physical Science,"Yes, everything went well",Combined mathematics ,A,A,A,B,A,A,A,B,A,Engineering ,Civil engineering ,,,,,Choose the stream according to ability and preference 
+5/3/2025 19:07,Bio Science,"Mostly, but I faced some challenges",Biology ,A,A,A,A,A,A,A,A,A,Chemist,Applied science,I'm currently employed,Government Sector,5,,Do your favourite one and every day try your best
+5/3/2025 19:13,Bio Science,"Yes, everything went well",science,A,A,A,A,A,A,A,A,A,Technical,Chemisty special,I'm currently employed,,5,No,"o/L results results section does not match with all age groups unless this targets a specific group.
+The selection of A/L stream should be demand driven."
+5/3/2025 19:19,Bio Science,"No, I had difficulties",science,A,A,A,A,A,A,A,A,S,University lecture ,Food science and technology ,,,,,Just select a stream that you love to do and you are capable of doing . Do not select a stream that others want you to do.
+5/3/2025 19:25,Arts,"Mostly, but I faced some challenges",Geography ,C,C,B,A,B,B,C,B,B,Pre school teacher ,Diploma in Pre school teacher ,I'm currently employed,Teaching / Education,5,Interior Designer ,
+5/3/2025 19:26,Physical Science,"Mostly, but I faced some challenges",ICT,A,B,B,B,C,B,C,B,A,Computer science,,I'm currently employed,Private Sector,3,Anything related to it,
+5/3/2025 19:32,Bio Science,"Mostly, but I faced some challenges",science ,A,A,A,A,A,A,A,A,A,Aviation ,Diploma in IT,I'm currently employed,Private Sector,5,Data analyst,Choose according to your preference rather than others.
+5/3/2025 19:33,Physical Science,"Mostly, but I faced some challenges",Pure maths,A,A,A,A,A,A,A,A,A,Actuary,Bsc (Physical science),,,,,
+5/3/2025 19:34,Physical Science,"No, I had difficulties",Maths,A,A,A,C,A,B,A,B,A,My business ,Physical science ,,,,,"Doing what you like, not what others do."
+5/3/2025 19:43,Bio Science,"Mostly, but I faced some challenges",Maths,A,A,A,B,A,A,A,A,A,Food Production,Food Science ,,,,,
+5/3/2025 19:44,Physical Science,"Mostly, but I faced some challenges",maths ,A,A,A,A,A,A,A,A,A,Engineering,Electronics and telecommunications engineering ,,Private Sector,,,
+5/3/2025 19:45,Technology,"Yes, everything went well",ICT,A,A,A,A,A,A,A,A,A,A Businessmen  ,Software Engineering ,,,,,
+5/3/2025 19:58,Technology,"No, I had difficulties",ICT,C,B,C,S,C,C,C,C,B,Automobile ,Automobile Technician,I'm currently employed,Private Sector,2,ICT Field,No
+5/3/2025 19:58,Physical Science,"Mostly, but I faced some challenges",maths,A,A,A,C,A,A,A,C,A,Engineer,Mechanical Engineering ,I'm currently employed,Private Sector,4,No,"Before selecting, better go through university entrance book to select better stream"
+5/3/2025 19:59,Arts,"Mostly, but I faced some challenges",Economics ,A,A,A,A,A,A,A,C,A,Law,Law,,,,,Select the stream u are capable of doing
+5/3/2025 19:59,Physical Science,"Yes, everything went well",Maths,A,A,A,C,B,A,C,C,A,Surveying ,Surveying Science,,Government Sector,4,,
+5/3/2025 19:59,Physical Science,"Yes, everything went well",Pure Maths,A,A,B,A,B,B,B,B,B,Engineering ,Civil EEngineering ,I'm currently employed,Semi Government ,4,Management ,Better to go ahead with IT and management based potions 
+5/3/2025 20:00,Physical Science,"Mostly, but I faced some challenges",maths ,A,A,A,A,A,A,A,A,A,Maritime ,Transport management and logistics ,,,,,
+5/3/2025 20:00,Technology,"Yes, everything went well",ICT,B,B,C,C,B,B,B,B,B,Software ui designer,Software engineering ,,,,,don’t choose the technology stream if it doesn’t feel right for you.  🙂
+5/3/2025 20:00,Physical Science,"Mostly, but I faced some challenges",science,B,A,A,A,A,A,A,C,A,Lecturer,physical science,,Private Sector,,,Select according to your pasion and work hard on your dreams
+5/3/2025 20:01,Bio Science,"Yes, everything went well",science,A,A,A,B,A,A,A,A,A,Food scientist,Food science and technology,,,,,
+5/3/2025 20:14,Physical Science,"Mostly, but I faced some challenges",Maths,A,A,A,A,B,B,B,C,A,Software engineering ,Software engineering ,,,,,Choose a path you love and work hard on it.
+5/3/2025 20:16,Bio Science,"Mostly, but I faced some challenges",science,A,B,A,B,A,B,A,A,A,,Agree degree,,,,,
+5/3/2025 20:17,Commerce,"Yes, everything went well",Accounting ,B,B,A,A,C,A,A,A,A,Sports,Management ,I'm currently employed,Private Sector,4,Cricketer ,
+5/3/2025 20:23,Physical Science,"Mostly, but I faced some challenges",science ,A,A,A,A,A,A,A,A,A,Data Science ,Bsc. Statistics & Operation Research ,,,,,Practice past papers 
+5/3/2025 20:23,Physical Science,"Mostly, but I faced some challenges",Combined mathematics ,A,A,B,A,B,A,B,A,S,Software engineer,Computing and Information Systems ,,,,,
+5/3/2025 20:25,Physical Science,"Yes, everything went well",Combined mathematics,A,B,A,C,A,A,A,A,A,Software Engineering,Computing and Information Systems,,,,,no
+5/3/2025 20:26,Bio Science,"Mostly, but I faced some challenges",Science,A,B,B,A,B,B,A,C,A,Managing,Food science and technology ,,,,,
+5/3/2025 20:31,Physical Science,"Mostly, but I faced some challenges",Mathematics ,A,A,A,A,A,A,A,A,A,Engineering ,Software Engineering ,,,,,It is better you put what is your favourite subject section after the OL results section if you suggest example as history. Otherwise others think it is asking about favourite AL subject. However goodluck on your research.
+5/3/2025 20:36,Commerce,"Mostly, but I faced some challenges",Science,B,B,B,B,B,C,C,C,C,Data Science and AI,Computer Science Engineering,,Private Sector,2,As an intern to become a data scientist. ,Mathematics is most important to Life 
+5/3/2025 20:52,Bio Science,"Mostly, but I faced some challenges",Science,B,B,B,C,A,A,A,A,A,Lecturer,Bioscience,,,,,If you think you can do it let's do it
+5/3/2025 20:53,Bio Science,"Yes, everything went well",science ,A,A,A,C,A,A,A,A,A,Teaching,Bio science ,,,,Banker,
+5/3/2025 20:54,Physical Science,"Mostly, but I faced some challenges",Pure Mathematics ,A,B,A,B,B,C,C,S,B,Engineering ,Engineering ,I'm currently employed,Self-Employed,4,No,Be self analyzed your interesting schemes and choose best of among them considering future carrier opportunities in the world 
+5/3/2025 20:57,Physical Science,"Mostly, but I faced some challenges",Combined Mathematics ,A,A,A,A,A,B,C,B,A,Civil Engineer ,Civil Engineering ,I'm currently employed,Private Sector,4,No,Identify your potential and your future goals 
+5/3/2025 21:02,Physical Science,"Mostly, but I faced some challenges",science,A,A,A,A,A,B,B,A,A,chemist,Physical Science,,,,,"I suggest to do the stream which they are mostly intersted in and what are they can do better.
+
+I think it is better if you could collect further details about the student's skills and preferences related on each stream/path"
+5/3/2025 21:03,Physical Science,"Mostly, but I faced some challenges",Mathematics ,A,B,A,B,A,A,B,B,B,Engineering ,Civil Engineering ,I'm currently employed,Government Sector,4,Planter,Think different ways 
+5/3/2025 21:06,Bio Science,"Mostly, but I faced some challenges",Mathematics ,A,B,A,C,B,A,A,B,B,Dairy industry ,Animal Husbandry ,I'm currently employed,Government Sector,3,Foreign job,Think about Job opportunities and future plans
+5/3/2025 21:12,Physical Science,"Mostly, but I faced some challenges",ICT,A,B,A,A,A,A,A,C,A,Software Engineering,Higher National diplom in Software Engineering,I'm currently employed,Private Sector,5,LeLecturing ,
+5/3/2025 21:19,Physical Science,"No, I had difficulties",Maths,A,A,B,A,C,A,B,A,A,Software Engineering,Software Engineering,I'm currently employed,IT / Software Development,4,Remote,Do what you like not what is the best. What you like is what is best.
+5/3/2025 21:40,Physical Science,"Mostly, but I faced some challenges",Applied Mathematics ,A,C,A,B,A,B,B,B,B,Engineering ,Chemical Engineering ,,Private Sector,4,CEO,"When selecting your Advanced Level (AL) stream, it's important to make a thoughtful decision based on your strengths and capabilities. Opt for a stream that aligns with your abilities and interests, as this will enable you to perform at your best and achieve the results you aspire to. 
+
+By choosing a path that suits your capacity, you'll not only excel academically but also build the confidence needed to progress to the next level. Remember, success comes from playing to your strengths and setting yourself up for a fulfilling and rewarding journey."
+5/3/2025 21:42,Physical Science,"Mostly, but I faced some challenges",Science ,A,A,A,A,A,A,A,A,A,IT,Software Engineering,I'm currently employed,IT / Software Development,5,,
+5/3/2025 21:47,Physical Science,"Mostly, but I faced some challenges",Maths,A,A,A,A,A,A,A,A,A,Civil engineering,Engineering,I'm currently employed,Government Sector,4,No,Do your preference
+5/3/2025 21:53,Physical Science,"Mostly, but I faced some challenges",combined mathematics,A,A,A,A,A,A,A,B,A,Software Engineer,Computer Engineering,,Private Sector,,,"If you're interested in a subject, you're more likely to perform well in it and stay motivated. For example, if you love problem-solving and logical reasoning, you might enjoy the Science stream (with subjects like Mathematics, maths, science, etc.), whereas if you're interested in social studies or languages, the Arts or Commerce streams might be more suitable."
+5/3/2025 21:55,Physical Science,"Mostly, but I faced some challenges",Science,A,A,A,A,A,A,A,A,A,A professor ,maths Science ,I'm currently employed,Teaching / Education,4,Yess,Select a stream based on your interests and passions and how they can be pursued using the a/l results and subject streams
+5/3/2025 22:05,Physical Science,"Mostly, but I faced some challenges",Mathematics ,A,A,A,A,A,A,A,B,A,Engineering ,Mechanical and Manufacturing Engineering ,,,,,They should choose their desired path for A/L 
+5/3/2025 22:05,Physical Science,"Mostly, but I faced some challenges",science ,C,A,A,A,A,A,A,S,A,Software Engineering ,Software engineering,I'm currently employed,IT / Software Development,5,No,Choose your A/l stream as you like
+5/3/2025 22:07,Physical Science,"Yes, everything went well",Tamil,A,A,A,A,A,A,A,A,A,Computer ,,,,,,
+5/3/2025 22:08,Physical Science,"Mostly, but I faced some challenges",maths,A,A,A,A,A,A,C,A,A,Construction ,Quantity surveying ,,,,,
+5/3/2025 22:18,Commerce,"Mostly, but I faced some challenges",Accounts ,C,B,A,A,A,B,A,A,A,Accountant ,Graduated ,I'm currently employed,Government Sector,4,Training Officer,What you love to study...choose it....
+5/3/2025 22:21,Physical Science,"Yes, everything went well",Combined Maths,A,A,A,A,A,A,A,A,A,Engineering ,Information Technology ,I'm currently employed,Private Sector,5,Cabin crew,Keep working hard until your dreams come true... This project is excellent .
+5/3/2025 22:21,Physical Science,"Mostly, but I faced some challenges",science ,B,A,A,B,B,B,B,B,A,engineering ,electrical engineering ,I'm currently employed,Private Sector,5,IT,
+5/3/2025 22:23,Bio Science,"Yes, everything went well",maths,A,A,A,A,A,A,A,A,A,Doctor,MBBS,,Government Sector,3,Yes - In the creative field,"Explore job opportunities in interested field, connect with professionals in those jobs, assess the pros and cons, then make an informed decision"
+5/3/2025 22:26,Commerce,"Yes, everything went well",Information Technology ,A,A,A,B,A,A,A,A,A,IT Project Management,Business Information System,I'm currently employed,IT / Software Development,4,No,
+5/3/2025 22:50,Physical Science,"Yes, everything went well",Combined mathematics ,A,A,A,A,A,A,A,B,A,Engineering ,Quantity Surveying,,Private Sector,4,,For A/L s students must select subjects in which they are actually interested.
+5/3/2025 23:01,Arts,"Mostly, but I faced some challenges",ICT,A,A,A,A,B,A,A,A,A,Full stack developing,,,,,,Don’t waste your time on ALs unless you’re planning to attend a government UNI
+5/3/2025 23:02,Technology,"Mostly, but I faced some challenges",maths,A,A,A,B,A,B,B,B,B,Engineeribg,Mechanical  Engineering,I'm currently employed,Private Sector,3,No,No
+5/3/2025 23:05,Physical Science,"No, I had difficulties",science,A,A,A,A,B,A,B,B,A,Engineering  ,Mechanical engineering ,,,,,
+5/3/2025 23:13,Physical Science,"Mostly, but I faced some challenges",Mathematics,A,A,A,A,A,A,A,C,A,Quality assurance engineer ,Software engineering,,,,"Badminton umpire, Badminton coach","Assess Your Interests & Strengths
+Consider Career Aspirations
+Evaluate Subject Combinations
+Think About Future Demand
+Don’t Just Follow Friends or Family Pressure
+
+Incorporate Market Trends & Job Demand
+User-Friendly & Interactive System
+Multi-Language Support
+Continuous Learning System"
+5/3/2025 23:17,Bio Science,"Mostly, but I faced some challenges",science,B,C,C,C,C,C,C,C,C,Not sfessified ,Civil engineering,I'm currently employed,Government Sector,4,QS,"Higher dedication is essential  for any stream
+"
+5/3/2025 23:19,Physical Science,"No, I had difficulties",Mathematics ,A,A,A,B,A,A,A,A,A,To be a engineer,Mechanical engineering ,,Private Sector,,,Please select science stream 
+5/3/2025 23:45,Physical Science,"Mostly, but I faced some challenges",Combined Mathematics,A,B,A,A,A,A,A,B,A,Software Engineering,Bsc.(Hons) in Information Technology - Ongoing,,,4,Aircraft Engineering,Sometimes most of the students don't have an idea when selecting the A/L stream and this will be helpful to choose the correct stream. Also many students are changing their stream and even after they got bad result they don't have an idea to which field they are interested. Please consider them also.
+5/3/2025 23:47,Arts,"Mostly, but I faced some challenges",French,B,S,B,A,A,C,C,C,B,Psychological Counselor ,Social Sciences,I'm currently employed,Private Sector,3,No,
+6/3/2025 0:07,Physical Science,"Mostly, but I faced some challenges",maths ,A,A,A,B,A,A,A,B,A,Engineering ,mechanical engineering ,,,,,"Don't work hard,work smart."
+6/3/2025 0:45,Bio Science,"Mostly, but I faced some challenges",science ,A,A,A,C,A,A,A,B,A,Chemical field ,Bio Science ,,,,,
+6/3/2025 1:23,Commerce,"Mostly, but I faced some challenges",Maths,C,C,C,C,C,B,A,B,B,Banking ,Banking and finance ,I'm currently employed,Teaching / Education,5,No,
+6/3/2025 4:57,Physical Science,"Yes, everything went well",Maths,A,A,A,A,A,A,A,A,A,Academia,Computer Scinece,I'm currently employed,Teaching / Education,5,No,Find a field that you love to do or love the field that you do. Do not be influenced by temporary hypes.
+6/3/2025 5:35,Physical Science,"No, I had difficulties",Combined maths,A,B,A,A,A,A,A,B,A,Programmer ,Computer science with AI,I'm currently employed,Private Sector,2,Software developer ,
+6/3/2025 6:05,Physical Science,"Mostly, but I faced some challenges",maths ,A,A,A,C,A,A,A,A,A,Engineering ,Mechanical engineering ,,,,,"When selecting your A/L stream, choose a field that aligns with your interests and long-term career goals. "
+6/3/2025 6:07,Physical Science,"Mostly, but I faced some challenges",Maths,A,A,A,A,A,A,A,A,A,Data Engineering,Data science,I'm currently employed,Private Sector,3,Teaching ,"Before selecting your AL stream, first check what you want to do in future.what is your passion and then search what are the chances and how can you approach those chances. Then select your AL stream otherwise it will be bored and your specialty will be hidden forever."
+6/3/2025 6:33,Physical Science,"No, I had difficulties",it,A,B,B,B,C,B,B,C,A,Cloud Engineer,network engineering ,,IT / Software Development,,Grey hat hacker,
+6/3/2025 7:01,Arts,"Yes, everything went well",Economics,S,S,A,A,A,C,S,C,A,Human Resources,Business Management ,I'm currently employed,Non-Profit Organisation,5,No,"Select the stream that you love to study considering your future goals and ambition, not depending on friends, relatives or family pressure."
+6/3/2025 7:05,Technology,"Yes, everything went well",maths,B,C,B,B,C,C,B,B,B,it,software engineering ,I'm currently employed,Private Sector,3,it,
+6/3/2025 7:10,Commerce,"Yes, everything went well",Commerce,A,B,B,A,B,B,B,A,B,Banking,Not yet,I'm currently employed,Private Sector,5,My own business,Follow your path.do what you like.
+6/3/2025 7:27,Arts,"Mostly, but I faced some challenges",Econ,B,B,A,C,A,A,A,A,A,I want to be a film director,National Diploma in Television Program And Production Technology ,I'm currently employed,Private Sector,5,"Yes, Studio Manager ",Know what you can do and work hard for it
+6/3/2025 7:45,Technology,"Yes, everything went well",ICT,S,B,B,C,C,C,S,C,C,-,-,I'm currently employed,IT / Software Development,2,-,-
+6/3/2025 7:55,Bio Science,"No, I had difficulties",Biology ,B,A,A,A,B,B,A,B,C,"Food Quality(Hygiene control ),business management and Aviation ",Food Production &Technology Management ,,Student ,4,No need to change my career path but if I have a chance to do a part time job while ststudying love to go with an aviation side job,Study smart
+6/3/2025 7:55,Physical Science,"Mostly, but I faced some challenges",science,A,A,A,A,A,A,B,B,A,Aeronautical Engineering,Aeronautical Engineering,I'm currently employed,Private Sector,4,,"I would advice them to follow the subject stream that they are good at and interested, despite all the other opinions from parents or teachers or closer ones. Because at the end of the day your self satisfaction matters. Opportunities will come to you if you’re good at what you’re doing no matter what field you choose. "
+6/3/2025 7:58,Commerce,"Mostly, but I faced some challenges",Accounting ,A,C,B,A,C,C,B,B,B,Starting my own business ,Business analytics ,I'm currently employed,Private Sector,4,No,Don’t select your stream because of other people. Think about the career u wanna pursue and make decisions according to that
+6/3/2025 8:06,Bio Science,"Mostly, but I faced some challenges",maths,A,A,A,A,A,A,A,B,A,Doctor,Medicine,,,,,Choose the stream that you are most confident in and capable of doing.
+6/3/2025 8:07,Bio Science,"No, I had difficulties",science ,B,B,A,C,A,C,A,A,B,Logistics and supply chain,Logistics,I'm currently employed,Private Sector,4,,
+6/3/2025 8:09,Physical Science,"Yes, everything went well",science ,A,A,A,A,A,A,A,A,A,Not sure,Chemical and Process Engineering ,,,,,Try to recognise your passion
+6/3/2025 8:10,Physical Science,"Yes, everything went well",ICT,A,C,A,A,B,B,A,C,A,Project Management ,Computer science,,,,,
+6/3/2025 8:16,Physical Science,"Yes, everything went well",science ,A,A,A,A,A,A,A,B,C,Engineering,Automotive Engineering ,,Self-Employed,5,No,
+6/3/2025 8:17,Physical Science,"Mostly, but I faced some challenges",Maths,A,A,A,A,A,A,A,C,A,Software Engineer,Waiting for the results and hope to pursue software engineering ,,,,,"I recommend conducting thorough research on the various academic streams available before making your choice. Consider factors such as your interests, strengths, job prospects, and the subjects involved in each stream to ensure you select one that aligns well with your future aspirations.
+
+And I love this idea for the project! It sounds amazing. Best of luck with everything!"
+6/3/2025 8:18,Commerce,"Yes, everything went well",Accounting,A,B,A,B,B,A,B,A,A,Finance,Nothing ,I'm currently employed,Private Sector,4,Finance manager ,Do your works on day
+6/3/2025 8:19,Physical Science,"Mostly, but I faced some challenges",Science,B,C,A,C,B,B,S,S,A,Teaching or Hygiene officer ,Food technology ,,Private Sector,,,Choose a subjects that suits your skills.
+6/3/2025 8:22,Physical Science,"Mostly, but I faced some challenges",science ,A,B,A,B,A,C,A,C,A,Teaching ,TESOL,,Government Sector,5,NO,"According to the career preferences, they should select their A/L subjects.
+"
+6/3/2025 8:23,Physical Science,"Mostly, but I faced some challenges",science ,B,A,A,A,A,B,B,S,A,HR side,Human Resources Management ,I'm currently employed,Private Sector,5,Technical Side like Auto mobile,
+6/3/2025 8:30,Commerce,"Yes, everything went well",Accounting,A,A,A,A,A,C,B,B,A,Logistics industry,Supply Chain Management ,I'm currently employed,Private Sector,3,"Yes, I prefer to work procurement sector",Develop a consistent study routine and manage your time effectively
+6/3/2025 8:33,Arts,"Yes, everything went well",Art,B,C,B,A,B,A,A,B,B,Information technology ,Software engineering ,I'm currently employed,Private Sector,3,,Work hard and study well. Keep up with your goals.
+6/3/2025 8:45,Arts,"Yes, everything went well",Geography,S,S,B,C,C,C,A,B,S,Heavy Machinery Operator,Logistics Management ,I'm currently employed,Private Sector,5,"No,I am currently in my dream job.","Don't do what others do, do what you know you can and do it."
+6/3/2025 8:48,Technology,"Yes, everything went well",technology,B,B,A,B,A,A,A,A,B,Automobile engineering ,Advanced Level ,I'm currently employed,Sports Instructor ,5,"Yes, autoMobile engineering ", 👍🏻
+6/3/2025 8:51,Commerce,"Yes, everything went well",ICT,A,C,B,A,B,C,A,A,A,WEB,BIT,,,,,
+6/3/2025 8:57,Physical Science,"Mostly, but I faced some challenges",Maths,A,B,A,A,B,A,A,A,A,software engineering,Software engineering,,,,No,"When selecting your stream, just select whatever you like mostly and should decide it with your passion."
+6/3/2025 9:02,Technology,"Yes, everything went well",Maths,A,C,C,S,C,C,A,C,C,Business,"Government, Further, I continue my education to obtain the NDT to broaden the required modern knowledge.",,Self-Employed,5,Mechaniclal engineering technology.,It this good project
+6/3/2025 9:05,Physical Science,"Mostly, but I faced some challenges",IT,B,A,A,B,B,B,C,A,A,It industry ,Cyber security ,I'm currently employed,IT / Software Development,5,No,
+6/3/2025 9:05,Physical Science,"Mostly, but I faced some challenges",Maths ,A,A,A,A,A,A,A,A,A,Software Engineering ,Software Engineering ,,,,,
+6/3/2025 9:19,Arts,"Yes, everything went well",Art,S,B,C,B,A,S,C,B,W,Hotel industry ,Hotel industry ,I'm currently employed,Private Sector,4,No,"if you're not planing to do a government job,i think doing A/L is waste of time"
+6/3/2025 9:20,Bio Science,"Mostly, but I faced some challenges",science ,A,A,A,A,A,A,A,A,A,Chemist,Biological sciences,,,,,
+6/3/2025 9:36,Physical Science,"No, I had difficulties",Maths,A,B,A,A,A,B,B,B,A,Talented professional ,Civil Engineering ,I'm currently employed,Semi government ,4,Pilot ,Try to identify the field of the skills and focus on the way to achieve .
+6/3/2025 9:47,Arts,"Yes, everything went well",Ict,S,S,C,S,C,C,A,B,C,hotel field,,I'm currently employed,Private Sector,4,,
+6/3/2025 9:55,Physical Science,"Yes, everything went well",Mathematics ,A,A,A,A,A,A,A,B,C,Engineering ,Electrical Engineering ,I'm currently employed,Government Sector,5,No,Do what you can do in your best 
+6/3/2025 9:58,Commerce,"Yes, everything went well",Economics ,C,C,A,B,C,B,C,S,B,Business,IT Diploma,,,,I like to teaching,Choose only what you like
+6/3/2025 10:02,Physical Science,"Yes, everything went well",maths,A,A,A,A,A,A,A,A,A,Computing,Cyber security ,I'm currently employed,IT / Software Development,4,,Select a field that will help your dream career. 
+6/3/2025 10:10,Physical Science,"Mostly, but I faced some challenges",English literature ,A,A,A,A,A,A,A,B,A,"Data scientist, software engineer etc ",Artificial intelligence and Data Science ,,,,,"Choose wisely according to your career path, the most valuable and has big range of jobs"
+6/3/2025 10:10,Physical Science,"Mostly, but I faced some challenges",ICT,A,A,A,B,A,A,A,B,B,"Photographer,graphic designer",Diploma in Multimedia,I'm currently employed,Private Sector,4,,
+6/3/2025 10:15,Physical Science,"Mostly, but I faced some challenges",Maths,A,A,A,A,A,A,B,A,B,Software engineer,Computer science ,I'm currently employed,IT / Software Development,4,No,Choose a stream based on ur interests and strengths considering future career goals and required subjects. Research university courses and job prospects while assessing the workload of each stream. Have a backup plan in case of changes and seek advice from teachers and seniors for better clarity.
+6/3/2025 10:16,Physical Science,"Mostly, but I faced some challenges",Combined maths,A,B,A,C,A,A,A,A,A,Engineering,Electronics and Telecommunication Engineering ,,Private Sector,,No,I think Physical Science is the best option for students. It's improve our thinking style and have so many options.
+6/3/2025 10:41,Physical Science,"Mostly, but I faced some challenges",combined mathematics  ,A,B,A,C,A,B,A,B,B,IT Industry ,Sofware Engineering  ,,IT / Software Development,4,no,
+6/3/2025 10:45,Bio Science,"Yes, everything went well",maths,A,A,A,A,A,A,A,B,A,Doctor,Medicine,,,,,
+6/3/2025 10:48,Commerce,"Mostly, but I faced some challenges","Accounting, Maths",A,C,A,A,B,B,A,A,A,Accountancy side,CIMA ongoing,,,,,Student should know what they are good at when selecting a stream and work hard on it. The project sounds good
+6/3/2025 10:50,Physical Science,"No, I had difficulties",Combined maths,A,A,A,B,B,A,A,A,C,Video editor,Creative Multimedia,I'm currently employed,IT / Software Development,5,Web developer,
+6/3/2025 10:50,Commerce,"Yes, everything went well",Econ,A,C,A,A,A,A,A,A,A,Business ,Marketing Management ,,Teaching / Education,3,,Work hard
+6/3/2025 10:56,Physical Science,"Mostly, but I faced some challenges",Combined maths,A,A,A,A,A,A,A,A,A,Town planner or IT related field,Town and country planning,,,,,
+6/3/2025 11:00,Technology,"Yes, everything went well",Science for Technology,A,B,A,B,C,B,B,B,A,BA,Business Management ,I'm currently employed,Private Sector,4,Yes,Identify Your Interests & Strengths
+6/3/2025 11:11,Commerce,"Mostly, but I faced some challenges",Business studies,B,C,A,C,A,C,B,B,C,Management side,Project management ,,Private Sector,1,Teacher ,No
+6/3/2025 11:16,Physical Science,"Yes, everything went well",Combined Maths,A,B,A,A,A,A,A,A,C,Entrepreneurship ,Bachelor in Civil Engineering ,I'm currently employed,Government Sector,5,No,"Choose an A/L stream based on your interests, strengths, and career goals rather than external pressure, ensuring it aligns with future opportunities."
+6/3/2025 11:17,Physical Science,"Mostly, but I faced some challenges",Ict,A,C,A,A,A,A,A,C,B,It careers,Cs &se,I'm currently employed,IT / Software Development,4,Airhosting,
+6/3/2025 11:24,Commerce,"Mostly, but I faced some challenges",Accounting ,B,C,A,C,A,A,A,B,A,Business Management ,Bussiness Management ,,,,,
+6/3/2025 11:29,Commerce,"Yes, everything went well",History,A,A,B,B,B,B,A,C,B,English,Civil engineering,I'm currently employed,Government Sector,3,,
+6/3/2025 11:37,Commerce,"Mostly, but I faced some challenges",Accounts,A,B,B,A,C,C,B,A,A,Music Industry ,Software Engineering ,I'm currently employed,IT / Software Development,4,,
+6/3/2025 11:49,Arts,"Mostly, but I faced some challenges",Dancing,C,S,B,S,B,S,B,B,B,It,no,,Government Sector,3,Civil,Study well according to the knowledge you can and go to the highest place.
+6/3/2025 11:51,Physical Science,"Mostly, but I faced some challenges",science ,A,A,A,A,A,A,A,A,A,Engineering (Civil),Civil Engineering ,,,,,Select a stream with your passion and give your best towards that
+6/3/2025 12:02,Commerce,"Yes, everything went well",Economics,B,B,A,A,B,B,B,S,A,Banking,Advance diploma in Secretary in Management. ,I'm currently employed,Private Sector,5,No,Select what you can do with pleasure 
+6/3/2025 12:06,Physical Science,"Mostly, but I faced some challenges",science ,A,B,A,C,B,A,A,C,B,Engineering  field related with power generation,HNDE Electrical power filed ,I'm currently employed,Government Sector,5,NO,Identify your abilities and talents and choose subjects.A good topic for a research project
+6/3/2025 12:13,Physical Science,"Mostly, but I faced some challenges",science ,A,A,A,A,A,A,A,C,A,Business analyst,,,,,,
+6/3/2025 12:33,Physical Science,"Mostly, but I faced some challenges",maths,A,C,A,B,B,A,A,A,B,Software engineering,Software Engineering,I'm currently employed,IT / Software Development,3,,
+6/3/2025 12:51,Physical Science,"Mostly, but I faced some challenges",maths,B,B,A,C,C,B,C,C,C,Engineering,HNDE - Electrical & Telecommunications,I'm currently employed,Private Sector,3,Software development ,"Select the stream what you like. No matter what is your stream, carefully decide after path one you finished A/L.
+"
+6/3/2025 12:52,Commerce,"Mostly, but I faced some challenges",Business Studies ,B,C,C,B,B,B,B,B,B,Accounting ,Bcom,,,,,
+6/3/2025 12:58,Bio Science,"Mostly, but I faced some challenges",Biology ,B,A,A,B,A,A,A,A,A,Medical  field ,Radiography  ,,Private Sector,,"Yes, I would like to do a teacher ",Don't be strees  and do works with balanced mind.
+6/3/2025 13:00,Bio Science,"Mostly, but I faced some challenges",Science ,A,B,A,C,A,A,A,B,A,Medical field,Biomedical science ,,Private Sector,,Management ,
+6/3/2025 13:00,Commerce,"Yes, everything went well",accounting,B,B,C,A,A,B,A,A,S,finance ,accounting and finance ,,,,,
+6/3/2025 13:17,Physical Science,"Mostly, but I faced some challenges",Combined maths ,A,C,A,C,C,C,A,A,A,S.E.,Computer science ,,Self-Employed,4,,Work hard
+6/3/2025 13:27,Physical Science,"Yes, everything went well",Mathematics ,A,A,A,A,A,A,A,A,A,Software Engineer ,Information Technology and Management ,,IT / Software Development,,Project Manager ,Choose what you like.
+6/3/2025 13:29,Arts,"Yes, everything went well",art,A,A,A,C,A,A,B,A,A,Banking ,BA Hons (Economics),,,,,
+6/3/2025 13:36,Physical Science,"No, I had difficulties",maths ,A,A,A,A,A,A,A,A,A,Engineering ,Civil Engineering ,,,,,You can not stop learning anywhere. Select your fav parth and work hard.
+6/3/2025 13:38,Commerce,"Yes, everything went well",Economics ,A,A,A,A,A,A,A,B,B,Finance ,Masters of business administration ,I'm currently employed,Private Sector,5,NO,Select what you love the most 
+6/3/2025 13:47,Physical Science,"No, I had difficulties",Maths,A,A,A,A,A,A,A,B,A,IT,Computer science,I'm currently employed,IT / Software Development,4,No,…
+6/3/2025 13:50,Physical Science,"No, I had difficulties",Maths,A,A,A,A,A,A,A,A,S,Engineer,,,,,,
+6/3/2025 13:53,Technology,"Mostly, but I faced some challenges",IT,C,S,S,C,C,S,C,C,C,Cyber security engineer,Foundation of information technology,,IT / Software Development,,,
+6/3/2025 14:17,Commerce,"Yes, everything went well",Accounting,A,S,B,B,B,B,S,C,C,Having my own business ,Business Analytics ,,Private Sector,,,Make a good choice with your future expectations 
+6/3/2025 14:24,Arts,"Mostly, but I faced some challenges",Political Science ,S,C,C,C,C,A,B,B,C,Hotel industry ,International cookery NVQ level 4,,Chef,1,Digital marketing & social media Manager ,Don't choose a stream you don't like.Then you'll have problems with yourself.So focus on what you are best at.Then you'll be able to succeed.
+6/3/2025 15:16,Arts,"Mostly, but I faced some challenges",French,C,C,A,A,C,C,B,C,A,Language specialist,"Fashion designing,air condition installation and repairs NVQ lvl 4,french language(still learning )",I'm currently employed,Private Sector,5,French teaching,"Do whatever you prefer most,not only A/l's but also there are so many  ways to uplift your own skills"
+6/3/2025 15:23,Physical Science,"Mostly, but I faced some challenges",science ,A,B,B,C,B,B,A,C,C,Engineer,Electrical Engineering ,,Government Sector,,"Yes, Artist ","Don't believe in luck, believe in hard work"
+6/3/2025 15:29,Physical Science,"Yes, everything went well",Mathematics,A,A,A,A,A,A,A,B,A,Engineering,Manufacturing engineering,,,,,
+6/3/2025 15:48,Physical Science,"Yes, everything went well",maths,A,B,A,A,A,B,A,C,A,Data engineer ,IT,,,,,
+6/3/2025 15:59,Bio Science,"No, I had difficulties",Science,A,A,A,A,A,A,A,B,A,Software Engineering ,Software Engineering,I'm currently employed,Self-Employed,3,,Trust your gut and trust your skills 
+6/3/2025 16:21,Bio Science,"Mostly, but I faced some challenges",maths,A,A,A,A,A,A,A,A,A,"Health care, Research ",Bsc Radiotherapy undergraduate ,,,,,"Focus more on the paths you are eligible to select by choosing the relevant stream. Focus specially on job market other than just following the dreams, combine both, not only one thing. For example maths streams have more higher education opportunities in private sector than bio stream.
+ Rememer that not all the 9 As students for ol should do their als in science stream. "
+6/3/2025 16:32,Physical Science,"Mostly, but I faced some challenges",Combined Mathematics,A,A,A,A,A,A,A,A,A,Engineering,Civil Engineering,,,,,Choose what you are interested in studying.
+6/3/2025 16:47,Physical Science,"Yes, everything went well",science,A,A,A,A,B,A,W,A,A,Engineering,Textile Engineering,I'm currently employed,Private Sector,4,Maybe a job in Falt Knitting,"I personally think that you need to go with something that you love doing instead of focusing what pays the most as in the long run you may feel like you are suffocating by doing some you hate despite the larger pay
+"
+6/3/2025 16:56,Commerce,"Yes, everything went well",Economics,A,C,A,C,A,B,C,B,C,Marketing ,Marketing ,,,,,Understand what your prefer and ability and select stream
+6/3/2025 17:08,Physical Science,"Mostly, but I faced some challenges",Mathematics ,A,B,A,B,A,A,B,A,A,software engineering,Completed,I'm currently employed,IT / Software Development,4,No,"Choose wisely what you actually love to study and choose that. 
+
+Additionally, the training data might better to proceed with the grade 6 to 11  exams results gathered from schools for each subject.  "
+6/3/2025 17:23,Technology,"Yes, everything went well",technology,A,A,A,A,A,A,A,B,A,Developer,Software Engineering,,,,Barista ,
+6/3/2025 17:25,Physical Science,"Mostly, but I faced some challenges",science ,A,A,A,A,A,A,A,A,A,Developer,Software Engineering ,,,,Barista,Choose your A/L stream based on what genuinely interests you 
+6/3/2025 17:46,Bio Science,"Mostly, but I faced some challenges",science ,A,A,A,A,A,A,A,A,A,Doctor ,Medicine ,,,,,
+6/3/2025 17:48,Commerce,"Yes, everything went well",Economics ,A,A,A,A,A,A,A,A,A,Business Mangement,Business Mangement ,I'm currently employed,Private Sector,3,yes,
+6/3/2025 17:49,Physical Science,"Mostly, but I faced some challenges",Combined mathematics,A,A,A,B,A,A,B,B,A,IT side,Software engineering ,,,,,This project is very good for understanding our job current situation and career path..conclusionally very good..
+6/3/2025 17:55,Physical Science,"Mostly, but I faced some challenges",Combined Mathematics,A,A,A,A,A,A,A,A,A,AI/ML Engineer,Software Engineering,,,,,Do whatever you feel like you will excel at 
+6/3/2025 17:59,Physical Science,"No, I had difficulties",maths ,A,A,A,A,A,A,A,A,A,Computing/maths/Electronics ,Physical Science ,,,,,
+6/3/2025 18:00,Physical Science,"Mostly, but I faced some challenges",Ict,A,A,A,A,B,A,A,A,A,Software engineer ,Software engineering ,,,,,"If you like to do IT related job then you should go with the ICT stream. If I did it, i would be able to get better marks for the AL. Which means to apply for a better degree program. "
+6/3/2025 18:04,Physical Science,"Mostly, but I faced some challenges",maths,A,A,A,A,A,A,A,A,A,Software engineer ,Software engineering ,,,,,
+6/3/2025 18:09,Physical Science,"Mostly, but I faced some challenges",math,A,A,A,A,A,A,A,A,A,software engineering,software engineering,,,,,
+6/3/2025 18:22,Physical Science,"Mostly, but I faced some challenges",maths ,A,A,A,A,A,A,A,A,A,Software development ,Software engineering ,,IT / Software Development,,,
+6/3/2025 18:26,Physical Science,"Yes, everything went well",Maths ,A,A,A,A,A,A,A,A,A,Non,Electrical and electronic engineering ,,,,,Just do what you want to do.. not to others
+6/3/2025 18:30,Physical Science,"Yes, everything went well",maths ,A,A,A,B,A,A,A,A,A,Software Engineer ,Software Engineering ,,IT / Software Development,,No,Great project 
+6/3/2025 18:37,Physical Science,"Mostly, but I faced some challenges",Combined maths ,A,A,A,B,A,B,A,B,A,Software Engineering ,Software Engineering ,,,,,
+6/3/2025 18:50,Physical Science,"Mostly, but I faced some challenges",Combined mathematics,A,A,A,A,A,A,A,A,B,Enterpreneur,fashion designing,,,,lawyer,"Choose a subject that you like, one that is directly related to your future aspirations, or one that is easy for your reasoning skills or the environment around that subject."
+6/3/2025 19:04,Physical Science,"Mostly, but I faced some challenges",Mathematics,A,A,A,A,A,A,A,B,A,Software Developer,Computer Science,,,,,
+6/3/2025 19:05,Commerce,"Mostly, but I faced some challenges",Economics,C,S,A,A,C,B,C,C,B,Management,A/L,I'm currently employed,Private Sector,4,,Just choose what you'r good at .
+6/3/2025 19:16,Physical Science,"Mostly, but I faced some challenges",Combined mathematics ,A,B,A,C,A,B,A,B,C,Software engineering ,Electrical and electronic engineering ,I'm currently employed,Government Sector,2,Electrical design engineering ,You must do which you mostly have interested field 
+6/3/2025 19:17,Commerce,"Yes, everything went well",Econ,B,C,A,C,A,C,A,B,C,Financial ,,,,,,
+6/3/2025 19:18,Physical Science,"Mostly, but I faced some challenges",science ,A,A,A,A,A,A,A,A,A,Software Engineer ,Software Engineering ,,,,"Yes , Data Scientist",Do the Subjects you like
+6/3/2025 19:24,Physical Science,"Mostly, but I faced some challenges",maths,A,A,A,A,A,A,A,A,A,Engineering,Civil engineering,,,,,
+6/3/2025 19:26,Commerce,"Yes, everything went well",IT,A,B,A,A,A,B,A,A,A,Business Analyst ,Business management,I'm currently employed,Technical Support,4,Business Analyst ,To select the subjects you are most comfortable with 
+6/3/2025 19:26,Physical Science,"Mostly, but I faced some challenges",science,A,A,A,B,A,A,A,B,A,Network engineerig,Electronic and telecomiunication,,,,,
+6/3/2025 19:32,Bio Science,"Yes, everything went well",maths,A,A,A,A,B,A,A,A,A,medical Doctor,it ,I'm currently employed,IT / Software Development,4,No,
+6/3/2025 19:36,Physical Science,"No, I had difficulties",Combined maths,A,C,A,A,C,C,A,S,A,Business ,Mechanical engineering ,,Private Sector,,,Do what ever without focusing the outcome
+6/3/2025 19:40,Physical Science,"No, I had difficulties",maths ,A,A,A,B,A,A,A,A,A,Software Engineer,Software Engineering ,,,,,The best stream to qualify for IT related degree in the university is A/L physical science stream
+6/3/2025 19:41,Physical Science,"Mostly, but I faced some challenges",Combined Maths,A,A,A,A,A,A,A,A,A,Electronic engineering ,Electronic and Computer Science Degree,,,,,
+6/3/2025 19:45,Physical Science,"No, I had difficulties",Maths,B,A,B,S,B,B,A,C,A,engineering,None,I'm currently employed,Trading ,5,"Yes, Coffe Barista","Selecting the right A/L stream is a crucial decision that can shape a student’s future career and academic path. Here are some key points to consider:  
+
+1. **Identify Interests and Strengths** – Choose subjects that align with your passions and skills. Enjoying what you study makes learning easier and more rewarding.  
+2. **Career Aspirations** – Think about potential careers and higher education opportunities. Research university entry requirements and job prospects for different streams.  
+3. **Subject Difficulty and Workload** – Some subjects require strong analytical skills, while others emphasize memorization or creativity. Be realistic about your capabilities and willingness to commit.  
+4. **Seek Guidance** – Talk to teachers, career counselors, and professionals in fields of interest. Their insights can help clarify doubts and provide direction.  
+5. **Keep Future Options Open** – If unsure about a career path, consider a combination of subjects that allow flexibility in university choices.  
+
+Feedback on the Project:  
+- It would be helpful to include **real-life case studies** of students who chose different A/L streams and their career paths.  
+- A **career guidance quiz** could help students assess their strengths and interests.  
+- Providing **detailed university entry requirements** for different streams could make decision-making easier.  
+- **Webinars or Q&A sessions** with professionals in various fields could offer valuable insights.  "
+6/3/2025 19:53,Physical Science,"Mostly, but I faced some challenges",Combined Mathematics  ,A,A,A,B,B,B,A,A,C,Software Development,B.Sc. in Information Technology,I'm currently employed,IT / Software Development,3,"Yes, UI/UX design",Do what you like the most but study hard and OLs does not matter when you selecting your AL stream.
+6/3/2025 20:00,Bio Science,"Mostly, but I faced some challenges",Biology ,A,A,A,C,B,A,A,A,C,Business ,Diploma in Counseling Psychology,I'm currently employed,Self-Employed,4,Teaching ,It is important to manage time well and maintain the necessary attention for the subjects.
+6/3/2025 20:12,Physical Science,"Mostly, but I faced some challenges",Mathematics,A,A,A,A,A,A,A,A,A,Engineer,Computer Engineering,,,,,Choose A/L stream according to the future goal. 
+6/3/2025 20:39,Physical Science,"Mostly, but I faced some challenges",Mathematics ,A,A,A,A,A,A,A,A,A,Mechanical Engineer,Mechanical Engineer,,,,,Choose path what you like
+6/3/2025 20:43,Physical Science,"Mostly, but I faced some challenges",Combined maths,A,A,A,C,A,A,A,A,C,Searching something new,Software engineering,,,,,
+6/3/2025 20:52,Arts,"Mostly, but I faced some challenges",Political / Economics,B,B,A,A,A,A,A,A,B,Fashion Design,fashion designing,,,,,When selecting subject need to think about own prefrences as well as the what subject are the best for future 
+6/3/2025 21:27,Physical Science,"Yes, everything went well",maths,A,C,A,B,A,A,A,A,A,software engineering,,I'm currently employed,Private Sector,5,No,"Get it done in first attempt.. moreover, choose the stream u preferred.. "
+6/3/2025 21:38,Technology,"Mostly, but I faced some challenges",ICT,A,C,A,B,A,A,A,A,B,Web developer,Information & Communication Technology ,,,,,
+6/3/2025 21:44,Arts,"Yes, everything went well",Science,A,A,A,A,A,A,A,B,A,Business Analyst,Computing,I'm currently employed,IT / Software Development,4,A job without devices ,Get advice (Something like consultation) on selecting subjects or streams for ALs. To get the idea of z score and the degree programs at universities (Like what university offer those degree programs currently)
+6/3/2025 21:54,Physical Science,"Yes, everything went well",Combined maths ,A,A,A,A,A,A,A,A,A,Engineering ,Software engineering ,,,,,"Do only what you want, don't do what others say you don't want to do. Let yourself be heard and work."
+6/3/2025 22:05,Physical Science,"Mostly, but I faced some challenges",Combined Mathematics,B,B,A,A,A,A,A,B,C,Electrical Engineer,HND in Electrical Engineering ,,,,,Follow your dream not others
+6/3/2025 22:47,Physical Science,"Mostly, but I faced some challenges",maths ,A,B,A,A,A,A,A,A,A,Travel Guide,Travel and Tourism Management ,I'm currently employed,Private Sector,5,No,You have to select the stream that you more interested and hard work on it
+6/3/2025 23:46,Physical Science,"Yes, everything went well",science ,A,A,A,A,A,A,A,A,A,Engineering,Civil Engineering,,Private Sector,4,Yes. Music or sports,Browse the future jobs and decide your path before choosing the stream. Not doing that was a huge mistake i have ever done. 
+7/3/2025 0:41,Commerce,"Yes, everything went well",Econ,A,A,A,A,A,A,A,B,A,IT,IT  business analyst ,,IT / Software Development,3,,
+7/3/2025 1:43,Bio Science,"No, I had difficulties",maths,A,A,A,A,A,A,A,B,A,Computer Science,Computer Science,,,,,Dont trust your tution teachers. Just self study everything through Youtube etc. Focus on only past exam papers. Sleep well
+7/3/2025 5:03,Arts,"Yes, everything went well",Economics,A,A,A,B,A,B,A,B,A,Banker,BA Hons in Economics ,,,,Yes. Company lawyer ,Choose the stream that best suits your future aspirations. 
+7/3/2025 6:43,Commerce,"Mostly, but I faced some challenges",Econ,A,C,C,C,C,C,C,B,A,Banking ,NA,I'm currently employed,Private Sector,5,NA,"After the A/L do not waiting campus dream.
+Hurry to grow your certificates causes"
+7/3/2025 6:58,Bio Science,"Mostly, but I faced some challenges",science ,B,C,A,B,B,B,B,C,B,Owner of a business ,Natural Science,I'm currently employed,Administration- church,4,Self employed ,Revise everything you learn everyday. Do past papers. Don't try to write answers from your memory when answer the past parrs at home.Read the question well and read the lesson related to the question and build up a proper answer using the format of introduction  body and conclusion. Don't waste your time making short notes. But keep doing questions. And do a paper at least 3 times in different time paces. This will help you to improve your skill of writing a proper answer to a question. 
+7/3/2025 7:14,Physical Science,"Mostly, but I faced some challenges",Mathematics,A,B,A,A,B,A,A,A,C,Any career in the field of Information Technology.,Cyber Security ,,,,,Select a subject that you are passionate about.
+7/3/2025 9:01,Physical Science,"Mostly, but I faced some challenges",Combined Maths,A,A,A,B,A,A,A,A,A,Cyber Security ,Software Engineering,,,,,
+7/3/2025 9:46,Commerce,"Yes, everything went well",Business Studies,A,B,C,A,B,A,A,B,A,Hotelier,Hotel Management and Tourism ,I'm currently employed,Private Sector,4,No,
+7/3/2025 10:45,Commerce,"Mostly, but I faced some challenges",Account ,B,B,A,C,B,B,B,B,A,Accountant ,Entrepreneurship and management ,I'm currently employed,Private Sector,3,"In cafe, Barista ",
+7/3/2025 11:47,Bio Science,"Yes, everything went well",History,A,B,A,C,A,A,A,A,A,software development,Software Engineering,I'm currently employed,Private Sector,5,NO,User-Friendly Interface – Ensure the recommendation system has a simple and engaging UI for students.
+7/3/2025 16:47,Commerce,"Mostly, but I faced some challenges",Accounting ,A,B,A,C,A,A,A,A,A,Accountant,Management in university of sri jayawardhanepura,,Private Sector,,,
+7/3/2025 18:32,Physical Science,"Mostly, but I faced some challenges",maths,A,A,A,A,A,A,A,A,A,Software Engineer,computer science,,,,,
+7/3/2025 19:34,Bio Science,"No, I had difficulties",maths,A,A,A,A,A,A,A,B,A,Software developer,Software Engineering,,,,,Before selecting the subjects find about career paths and select subjects according to your potential and interests.
+7/3/2025 19:47,Arts,"Mostly, but I faced some challenges",art,B,B,A,A,A,A,B,C,A,Lecturer,BA hons in arts ,,Government Sector,,Social works ,Choose the right stream and study well.
+7/3/2025 19:48,Bio Science,"Mostly, but I faced some challenges",History ,A,A,A,A,A,A,A,A,A,Writer ,Science (Bsc) degree ,,Part time job,3,Journalist ,Select what you like most..follow your favorite subject .just do whatever you love
+7/3/2025 19:52,Physical Science,"Mostly, but I faced some challenges",Combined maths,A,A,A,B,A,A,A,B,A,Agricultural economist,Agricultural field ,,,,,
+7/3/2025 19:56,Commerce,"Yes, everything went well",Accounting,A,A,A,B,B,C,A,B,C,Accountant,Accounting and Business Finance,I'm currently employed,Private Sector,3,Start a business,Just follow the interested area
+7/3/2025 20:00,Bio Science,"Mostly, but I faced some challenges",Biology ,A,A,A,A,A,A,A,A,A,Lecturer ,Geology ,,,,,-
+7/3/2025 20:01,Physical Science,"No, I had difficulties",History ,B,A,A,B,A,A,B,A,A,"Software development, web development, or IT project managemen",HIGHER DIPLOMA IN COMPUTING AND SOFTWARE ENGINEERING ,,IT / Software Development,1,"If given the opportunity, I would prefer a job in software development, web development, or IT project management as they align with my skills and interests","For students selecting their A/L stream, I would advise choosing a field that aligns with their interests, strengths, and future career goals. If they are interested in technology, engineering, or business IT, streams like Mathematics, ICT, or Commerce would be beneficial. Researching career opportunities and seeking guidance from professionals can also help in making an informed decision.
+
+Regarding project improvement, I suggest focusing on user experience, performance optimization, and security. Ensuring a responsive design, smooth navigation, and strong database management will enhance the project’s quality and effectiveness.
+"
+7/3/2025 20:08,Bio Science,"No, I had difficulties",maths ,A,B,A,A,A,A,A,C,A,Marine biologist ,Al ,I'm currently employed,Self-Employed,4,Banker,"Don’t do what others say , choose what you want "
+7/3/2025 20:10,Commerce,"Yes, everything went well",Accounting ,C,B,B,B,B,C,B,A,A,Supplychain,Business management ,,,,,Work hard then you will achieve what you want
+7/3/2025 20:29,Commerce,"No, I had difficulties",ENGLISH ,C,C,S,A,C,S,B,C,W,IDK,AUTOMOBILE ,,,,,
+7/3/2025 20:35,Arts,"Yes, everything went well",Literature,B,B,A,A,A,A,C,A,A,Lawyer,Law,,,,,
+7/3/2025 20:35,Commerce,"Mostly, but I faced some challenges",Business,C,S,C,S,C,B,A,S,S,Buisness,Buisness management,I'm currently employed,Private Sector,5,No,
+7/3/2025 20:37,Technology,"Mostly, but I faced some challenges",ICT,B,C,B,C,B,B,B,C,C,IT,Software Engineering,I'm currently employed,IT / Software Development,5,,Do what you like and what you can
+7/3/2025 20:37,Physical Science,"Mostly, but I faced some challenges",combined Mathematics ,A,A,B,A,C,A,B,B,B,Data analyst ,currently following computer science majoring data science ,,,,,Understand your strengths and interests. Choose a stream that aligns with your passion and long-term goals.
+7/3/2025 20:40,Physical Science,"No, I had difficulties",Maths,A,A,A,B,A,B,A,A,A,Software engineering ,HND in software engineering ,,,,,
+7/3/2025 20:42,Technology,"Yes, everything went well",Ict,B,B,C,B,B,C,B,B,C,BANKING SIDE,STUDYING MANAGEMENT STUDIES,I'm currently employed,Private Sector,3,"YES, BANKING","Be realistic about your ability to manage the difficulty level.
+Choose subjects that challenge you but are within your capabilities."
+7/3/2025 21:11,Technology,"Yes, everything went well",English,B,C,C,A,A,C,C,C,A,UI Designing,Computing,,,,,
+7/3/2025 21:14,Physical Science,"Mostly, but I faced some challenges",Combined Mathematics ,A,A,A,A,A,A,C,A,A,Engineering ,Mechanical and Manufacturing Engineering ,,,,,Select the stream which he/she likes
+7/3/2025 21:16,Physical Science,"Mostly, but I faced some challenges",Mathematics ,A,A,A,A,A,A,B,A,A,-,Computer science ,,,,,
+7/3/2025 21:22,Arts,"Yes, everything went well",french,B,C,A,B,A,C,A,A,A,Teaching,Education and child phycology ,I'm currently employed,Teaching / Education,5,Fashion designing,
+7/3/2025 21:51,Physical Science,"Mostly, but I faced some challenges",Maths,A,A,A,A,A,A,B,A,A,Data science ,IT,,IT / Software Development,3,May be,no
+7/3/2025 22:31,Physical Science,"Yes, everything went well",science ,A,A,A,A,A,A,A,C,A,Engineering ,Civil Engineering ,I'm currently employed,Private Sector,3,,
+7/3/2025 22:37,Physical Science,"No, I had difficulties",ICT ,C,S,A,A,C,C,C,C,C,Software engineering ,Foundation ,,,,,
+7/3/2025 22:46,Arts,"Yes, everything went well",IT,C,C,A,C,B,B,C,S,C,Photographer,IT,,Self-Employed,5,I don’t like jobs,"You should choose subjects that you think you can pass, rather than choosing subjects based on what others are doing"
+7/3/2025 22:59,Commerce,"Mostly, but I faced some challenges",Maths ,A,A,A,A,A,B,A,B,A,I'm interested in pursuing a career in auditing and taxation..,Accounting and finance ,,,,,"When selecting an A/L stream, choose subjects that match their interests and strengths while also considering future career opportunities.they need think about the difficulty level and be prepared for the workload. Seek guidance from teachers, seniors, and professionals to make an informed decision. Keeping their options open will help them to adapt to different career paths in the future."
+7/3/2025 23:00,Arts,"Yes, everything went well",Dancing,A,C,C,A,A,C,A,A,C,Dancing,Hotel management (currently following),I'm currently employed,Private Sector,4,No,As they wish
+7/3/2025 23:02,Bio Science,"Yes, everything went well",maths,B,B,A,A,A,A,B,A,A,Sales and Marketing ,Post Graduate Diploma in Marketing ,I'm currently employed,Private Sector,3,,Understand one’s strengths and interests and then align to your career goals . Initially it would be difficult to realize what would work for you so it’s okay to try different fields until you find what you’re really passionate about .
+7/3/2025 23:06,Physical Science,"Mostly, but I faced some challenges",maths ,A,B,A,C,B,A,A,A,A,Mechanical Engineer,Mechanical Engineering ,I'm currently employed,Government Sector,1,Business ,
+7/3/2025 23:10,Commerce,"Yes, everything went well",Econ,A,A,A,A,A,A,A,A,A,Business ,Software engineering ,I'm currently employed,IT / Software Development,4,Pilot ,
+7/3/2025 23:32,Physical Science,"Yes, everything went well",Combined Mathematics ,A,A,A,A,B,A,A,S,A,Data Science,Computer Science ,,IT / Software Development,,No ,I would advice them to follow latest trends in the global platform. 
+7/3/2025 23:35,Commerce,"Mostly, but I faced some challenges",Accounting ,C,B,B,C,B,B,B,A,B,Software engineering ,Software engineering ,I'm currently employed,IT / Software Development,4,Businessman ,"If you can do something,do it well "
+8/3/2025 0:13,Physical Science,"Mostly, but I faced some challenges",ICT,A,C,A,A,C,C,A,A,A,Software Engineering & Grapic Design,,,,,Yes Grapic Deisgn ,
+8/3/2025 0:19,Commerce,"Yes, everything went well",Accounting ,C,C,B,C,A,C,B,C,A,Business ,Sports Science & Management ,I'm currently employed,Self-Employed,5,Accountant ,Choose what you like the most and are most good at.
+8/3/2025 0:22,Bio Science,"Mostly, but I faced some challenges",english,C,C,A,A,A,A,A,B,A,Law/TV Presenter,Just A/Ls only,,Businesses + Self employed or Private sector ,,Professional Actor/Architecture/Teaching/,Yeah!for a/l guysss you should follow your own way.don’t think science stream is the best blah blah blah.for science students there are so many opportunities but don’t use other’s methods or other’s thoughts when you’re selecting a stream.just focus on your skill & go through it……anddd i have a suggestion.add some multiple choices for careers and others..
+8/3/2025 0:28,Arts,"Mostly, but I faced some challenges",English ,C,B,A,A,A,A,A,A,A,physiologist ,Sport Science &Management ,I'm currently employed,Government Sector,2,No,Choose correct stream for you future career
+8/3/2025 0:29,Arts,"Yes, everything went well",Geography ,C,C,C,B,B,C,B,C,B,Machinist ,Civil engineering ,I'm currently employed,Machinest,2,No i like this side ,"If you can get learn in allways , if the place will design to yoi"
+8/3/2025 0:32,Physical Science,"Yes, everything went well",science ,A,B,A,A,A,A,A,B,A,Engineering ,Software Engineering,,,,,Research university entry requirements and job opportunities in your chosen field.
+8/3/2025 0:36,Commerce,"Mostly, but I faced some challenges",Econ,A,A,A,A,B,A,A,B,A,Software engineer ,Computer science ,,,,,
+8/3/2025 0:41,Technology,"Yes, everything went well",science ,A,B,A,A,A,B,B,B,B,network engineer ,HD in networking ,I'm currently employed,IT / Software Development,3,Medical student,work hard 
+8/3/2025 1:22,Physical Science,"Mostly, but I faced some challenges",science,A,A,A,A,A,A,A,A,A,Biomedical Engineering/mechatronics,Engineering,,,,,Select the stream according to your preference no to the like of others 
+8/3/2025 2:44,Physical Science,"Yes, everything went well",ICT,A,A,A,A,A,A,A,A,A,Project Manager ,Information Systems,I'm currently employed,Private Sector,5,No,
+8/3/2025 6:08,Physical Science,"Yes, everything went well",maths,A,A,A,A,A,A,A,A,A,Engineering ,Civil Engineering ,,,,,
+8/3/2025 6:16,Physical Science,"Mostly, but I faced some challenges",science ,A,B,B,C,C,B,A,A,B,Quality engineer ,Software ,I'm currently employed,Private Sector,3,Qe,If you passionate about subject then do it
+8/3/2025 7:21,Physical Science,"Mostly, but I faced some challenges",ICT,A,A,A,A,A,A,B,B,A,Software Engineering ,Software Engineering ,I'm currently employed,IT / Software Development,3,UI/UX,
+8/3/2025 7:30,Arts,"Yes, everything went well",Agri,B,A,A,C,C,C,A,A,C,Business,tourism and hospitality management,I'm currently employed,Private Sector,5,,Get an education that can turn your education into money in the future.
+8/3/2025 7:46,Bio Science,"Mostly, but I faced some challenges",science,A,A,A,A,A,A,A,B,A,Business management,Agri business management,,Private Sector,,,Do your current works daily
+8/3/2025 8:36,Commerce,"Mostly, but I faced some challenges",Accounting ,A,B,A,B,A,A,A,A,B,Accountant ,B.Sc. Accounting (Special) Degree,I'm currently employed,Private Sector,4,,
+8/3/2025 8:45,Commerce,"Yes, everything went well",ICT,B,C,A,A,A,A,A,A,B,UI/UX designer ,Information technology ,,,,,
+8/3/2025 8:48,Arts,"Yes, everything went well",Agri Science,C,S,C,S,B,C,A,S,A,Electrician,Electrical engineering,,Self-Employed,,No,"Before selecting Advanced Level subjects, you must know and choose the subject stream that suits it
+"
+8/3/2025 9:04,Physical Science,"No, I had difficulties",Maths ,A,A,A,A,A,A,A,A,A,Engineering ,Mechanical engineering ,,,,,
+8/3/2025 9:20,Physical Science,"Yes, everything went well",maths,A,A,A,A,A,A,A,B,A,IT,Computer science,,,,,
+8/3/2025 9:46,Physical Science,"Mostly, but I faced some challenges",science ,A,A,A,A,A,A,A,A,A,Data analysis ,Computer Science ,,,,,
+8/3/2025 9:50,Technology,"No, I had difficulties",Ict,B,A,A,A,A,A,A,B,A,Data scientist,Data science,I'm currently employed,Private Sector,4,,
+8/3/2025 9:50,Bio Science,"Mostly, but I faced some challenges",Sinhala,A,A,A,A,A,A,A,A,A,Bio,,,Government Sector,5,Business ,
+8/3/2025 10:00,Technology,"Mostly, but I faced some challenges",Agri,B,C,A,C,B,B,A,A,A,Food quality ,Seafood technology ,I'm currently employed,Private Sector,5,No,Choose a good valuable subject 
+8/3/2025 11:19,Physical Science,"Mostly, but I faced some challenges",Combined Mathematics,A,A,A,C,B,A,A,A,A,Software Engineer,Software Engineer,I'm currently employed,Private Sector,4,,
+8/3/2025 11:42,Bio Science,"Mostly, but I faced some challenges",Mathematics,A,A,A,A,A,B,A,B,A,Fashion design or art related career ,Software engineering ,I'm currently employed,IT / Software Development,3,Quality Control / Fashion Design / Music Production,"I don’t recommend taking A/Ls. However, if you do, I suggest studying mathematics."
+8/3/2025 12:31,Arts,"Yes, everything went well",Literature,B,B,A,B,B,B,A,B,B,Secretary,Human resource management,I'm currently employed,Private Sector,1,,"You should choose an A-level course that will allow you to do a job of your choice.
+This project was excellent."
+8/3/2025 12:40,Physical Science,"Mostly, but I faced some challenges",maths,A,A,A,A,A,A,B,B,A,Software Engineering,Computer Science,I'm currently employed,IT / Software Development,4,No,"Don't let the Sri Lankan education system choose your path, follow your passion and choose your own path. Train yourself everyday and understand the importance of self-learning"
+8/3/2025 13:04,Physical Science,"Yes, everything went well",Combined maths,A,A,A,A,A,A,A,C,A,Engineering,Electrical engineering,,,,,
+8/3/2025 13:33,Bio Science,"Yes, everything went well",science,C,A,A,A,A,B,A,A,A,Tea taster,Management,I'm currently employed,Government Sector,4,,
+8/3/2025 16:11,Physical Science,"No, I had difficulties",Combined maths,A,A,A,A,A,A,A,B,C,Mechanical Engineer,Mechanical engineering,I'm currently employed,Private Sector,3,Yes. An engineering job,"Just work as hard as you can in those two years as Ajantha sir says or just don't do the exam, it's a waist of time"
+8/3/2025 16:31,Physical Science,"No, I had difficulties",ICT,A,B,A,A,A,A,A,B,B,IT,Bsc(Hons) Computer Security,I'm currently employed,IT / Software Development,3,Hybrid or Remote Job,I am not a suitable person to give advices to AL stream.
+8/3/2025 17:20,Technology,"Mostly, but I faced some challenges",technology,C,B,C,A,C,B,A,A,C,Engineering ,Mechanical Engineering ,I'm currently employed,Private Sector,4,,
+8/3/2025 18:45,Physical Science,"Yes, everything went well",IT,A,B,C,B,A,A,A,A,A,Business ,Bussiness Management ,I'm currently employed,Private Sector,2,Yes,
+8/3/2025 18:50,Commerce,"Yes, everything went well",Business studies,W,W,W,C,W,W,B,C,C,Sl Army,Graduated,I'm currently employed,IT / Software Development,3,Yes. Data analytis ,When you are selecting the subjects you have to think twise because the world is on a game.
+8/3/2025 19:03,Physical Science,"Mostly, but I faced some challenges",maths,A,A,A,A,A,A,A,B,C,MOTOR MECHANIC,NO,I'm currently employed,Private Sector,4,MOTOR MECHANICAL ENGINEERING,??
+8/3/2025 19:34,Arts,"Yes, everything went well",English literature,B,B,A,A,A,A,A,A,A,Banker,Business administration,I'm currently employed,Private Sector,4,Yea,
+8/3/2025 19:49,Bio Science,"Mostly, but I faced some challenges",science,A,A,A,A,A,A,A,A,B,Microbiologist,Biological science,,,,,
+8/3/2025 19:53,Arts,"Yes, everything went well",Geography ,C,C,A,A,A,A,A,B,C,Teaching ,HND English ,,,,,"Great project! Make it more interactive and add career insights. Keep it simple and student-friendly.
+
+"
+8/3/2025 20:23,Commerce,"Yes, everything went well",Accounting,A,C,B,A,A,B,A,C,B,Banker,Higher diploma,I'm currently employed,Private Sector,3,"Yes, Cricketer",Persue your passion not the subject your parents choose you
+8/3/2025 20:32,Arts,"Yes, everything went well",Dancing ,C,C,B,C,A,A,A,A,B,Fashion designer ,fashion design,,,,,No
+8/3/2025 21:00,Physical Science,"Mostly, but I faced some challenges",Maths,B,C,A,C,B,A,C,S,B,Sports Manager,Sport Management,,,,"Yes , Engineer",The advice I give is that it would be better if you do maths for A/L.
+8/3/2025 21:09,Arts,"Yes, everything went well",English Literature,A,A,A,A,A,A,A,B,A,Aviation Field,Teaching English as a Second Language,,works as a language teacher in an institute ,4,,
+8/3/2025 21:40,Arts,"Mostly, but I faced some challenges",German ,B,B,A,A,A,C,A,B,A,Educator , Early Childhood Education ,I'm currently employed,Teaching / Education,5,,
+8/3/2025 22:15,Physical Science,"Mostly, but I faced some challenges",Maths,A,A,A,A,A,A,A,A,A,System Engineer or Software Engineer,Computer Systems Engineering,,,,,
+9/3/2025 8:22,Commerce,"Mostly, but I faced some challenges",Accounting,B,B,A,B,A,B,A,A,A,Finance ,Finance,I'm currently employed,Private Sector,4,IT industry,"Advice for A/L students: Choose a stream based on your interests, strengths and future career goals. Research your options and seek guidance from professionals.
+
+Feedback on the project: It’s well-structured. Adding real-life examples or career assessment tools could make it even more helpful."
+9/3/2025 9:02,Physical Science,"Mostly, but I faced some challenges",science ,A,A,A,A,A,A,A,A,B,Software development ,Quality Assurance Engineering ,I'm currently employed,Private Sector,3,,
+9/3/2025 9:21,Physical Science,"Yes, everything went well",Combined maths,A,A,A,A,A,A,A,A,B,Data analysis,,,,,,"choose your all subject wisely. 
+
+"
+9/3/2025 15:27,Bio Science,"Yes, everything went well",maths,A,A,A,A,A,A,A,A,A,Medicine ,Medicine ,I'm currently employed,Government Sector,3,Yes ,Choose a career pathway with overseas opportunities 
+9/3/2025 15:49,Arts,"Mostly, but I faced some challenges",ECONOMICS ,A,A,A,A,A,A,C,A,A,BANKING,BACHELOR OF ARTS,I'm currently employed,Government Sector,4,NO,
+9/3/2025 21:03,Physical Science,"Yes, everything went well",Maths,A,A,A,A,A,A,A,A,A,Maths ,Mechanical Engineering ,I'm currently employed,Private Sector,5,.,.
+9/3/2025 21:03,Technology,"Mostly, but I faced some challenges",Ict,B,C,A,C,A,B,C,C,B,web development,I am currently studying at SLIATE.(web development),,,,,
+10/3/2025 1:40,Bio Science,"Mostly, but I faced some challenges",science,C,A,A,S,B,A,A,S,A,Farming,Agriculture ,,,3,,
+10/3/2025 6:19,Physical Science,"Yes, everything went well",maths,A,A,A,B,A,A,B,B,A,Electrical and Electronics Engineer ,Electrical and Electronics Engineering ,I'm currently employed,Private Sector,5,Teaching,"prioritize your interests and strengths, explore your options, and seek guidance from teachers or counselors to make an informed decision that aligns with your future goals. 
+"
+10/3/2025 10:19,Arts,"Mostly, but I faced some challenges",Japanese ,C,S,A,A,S,S,A,B,S,UI/UX Development,Software Engineering,I'm currently employed,IT / Software Development,4,Graphic Design,
+10/3/2025 12:03,Physical Science,"Mostly, but I faced some challenges",IT,A,B,B,B,C,C,C,B,A,Frontend and UI UX developer. ,IT,I'm currently employed,IT / Software Development,3,"Yes, I want to be a content creator. ",Choose wisely. 
+10/3/2025 13:37,Physical Science,"Mostly, but I faced some challenges",science,C,C,B,B,B,A,B,A,A,Maritime ,Nautical scince ,,Seafarer ,4,,Choose the subject you like and work hard
+10/3/2025 15:51,Commerce,"Mostly, but I faced some challenges",Business Studies,B,C,A,A,B,C,A,B,A,Work in Digital media & Production Side,Television Production technology,I'm currently employed,Private Sector,5,No,Move forward in your strengths and set a goal. Work with a plan and guidance from adults.
+10/3/2025 16:22,Commerce,"Yes, everything went well",Information Technology ,A,A,A,A,A,A,C,A,A,Data analyst ,Data science ,I'm currently employed,Private Sector,5,No,Follow a consistent route throughout in the studies 
+10/3/2025 19:45,Physical Science,"Mostly, but I faced some challenges",maths,A,A,A,A,A,A,A,A,A,Engineering ,Engineering ,,,,,Just follow your passion nothing else matters
+10/3/2025 22:26,Commerce,"Mostly, but I faced some challenges",Economy ,B,C,A,B,A,A,A,A,B,Marketing ,Business management ,I'm currently employed,Private Sector,5,No,
+12/3/2025 10:40,Bio Science,"No, I had difficulties",ict,A,A,A,A,A,A,A,A,A,Software Engineer ,BSc IT (Hons) Undergraduate ,I'm currently employed,IT / Software Development,3,No,"Do what you love, don't choose your subjects for anyone else's sake."
+12/3/2025 10:42,Bio Science,"Yes, everything went well",Maths,A,A,A,A,A,A,A,A,B,Medicine,Bachelor of medicine,,,,,
